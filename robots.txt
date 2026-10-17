@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://willmair.com/sitemap.xml

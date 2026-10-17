@@ -1,0 +1,47 @@
+<!--
+title: Contact
+description: Invite William Mair to speak, send a media request, or ask about advising and consulting.
+-->
+<section class="page-head">
+  <div class="wrap">
+    <span class="eyebrow">Contact</span>
+    <h1 class="display">Get in <em>touch.</em></h1>
+    {{WAVE}}
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="wrap split">
+    <div class="contact-aside">
+      <p class="lede" style="margin-bottom:26px">Speaking invitations, media requests and advising enquiries all come straight to me. Choose a topic and I’ll get back to you.</p>
+      <ul class="dl">
+        <li><strong>Research, joining the lab or collaborations</strong><span class="sub">Please use the <a href="https://themairlab.com/contact.html" target="_blank" rel="noopener">lab contact form</a>.</span></li>
+        <li><strong>Bios and photos for events</strong><span class="sub">Ready to copy and download on the <a href="about.html#bios">About</a> page.</span></li>
+      </ul>
+    </div>
+    <form id="contact-form" class="form" novalidate>
+      <div>
+        <label for="cf-topic">What is this about?</label>
+        <select id="cf-topic" name="topic">
+          <option>Speaking invitation</option>
+          <option>Media request</option>
+          <option>Advising or consulting</option>
+          <option>Something else</option>
+        </select>
+        <p id="cf-hint" class="form-hint" aria-live="polite" style="margin-top:8px"></p>
+      </div>
+      <div class="row2">
+        <div><label for="cf-name">Name</label><input id="cf-name" name="name" autocomplete="name" required></div>
+        <div><label for="cf-email">Email</label><input id="cf-email" name="email" type="email" autocomplete="email" required></div>
+      </div>
+      <div class="row2">
+        <div><label for="cf-org">Organization or outlet <span class="muted">(optional)</span></label><input id="cf-org" name="organization" autocomplete="organization"></div>
+        <div><label for="cf-when">Date or deadline <span class="muted">(optional)</span></label><input id="cf-when" name="when"></div>
+      </div>
+      <div><label for="cf-msg">Message</label><textarea id="cf-msg" name="message" required></textarea></div>
+      <input class="hp" type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="btn btn-dark" type="submit">Send message</button>
+      <p id="cf-status" class="form-status" role="status"></p>
+    </form>
+  </div>
+</section>
