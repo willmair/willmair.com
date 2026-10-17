@@ -53,7 +53,7 @@
      Delivered by Web3Forms (https://web3forms.com) to Will's Harvard inbox
      (recipient set in the Web3Forms dashboard). The sender name has no web
      address in it, so Harvard's spam filter doesn't flag it.             */
-  var CONTACT_FORM_KEY = "fe2d9e97-2d71-44a4-8501-87e318278dcf";
+  var CONTACT_FORM_KEY = "a193d998-854b-414c-9b19-de41d7c2e177";  // willmair.com form (Will's Web3Forms account)
 
   var form = document.getElementById("contact-form");
   if (form) {
