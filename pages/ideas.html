@@ -40,25 +40,55 @@ description: What William Mair wants everyone to understand about aging: life ex
       <p>In the U.S., public-health interventions have added 30 years to average life expectancy. But those gains did not come from slowing how our bodies age. They came from drastically reducing early-life mortality.</p>
       <p>So, for the first time in our history, huge numbers of us live beyond the point our bodies can maintain function. Without effective cellular and tissue maintenance, age becomes the greatest risk factor for most of our leading causes of death: neurodegeneration, cardiovascular disease, stroke, cancer, metabolic disease and more. Aging is a public-health pandemic.</p>
       <p>The twenty-first-century mission is to extend <strong>healthspan</strong>: the years we live free of disease and fully functional.</p>
-      <figure class="diagram">
-        <svg viewBox="0 0 640 300" role="img" aria-labelledby="hs-t hs-d">
-          <title id="hs-t">Healthspan: the goal is to stay healthy until late in life</title>
-          <desc id="hs-d">Two curves of health over a lifetime. Typically, health declines slowly from middle age, with many years lived in poor health. The goal is to stay healthy until late in life, adding healthy years.</desc>
-          <defs><linearGradient id="hsg" x1="0" x2="1"><stop offset="0" stop-color="#3E9A8D"/><stop offset=".5" stop-color="#4E62E0"/><stop offset="1" stop-color="#C9762E"/></linearGradient></defs>
-          <line x1="70" y1="40" x2="70" y2="250" stroke="#C9C2B4"/>
-          <line x1="70" y1="250" x2="610" y2="250" stroke="#C9C2B4"/>
-          <text x="62" y="54" text-anchor="end" class="dg-ax">Full</text><text x="62" y="70" text-anchor="end" class="dg-ax">health</text>
-          <text x="62" y="236" text-anchor="end" class="dg-ax">Poor</text><text x="62" y="252" text-anchor="end" class="dg-ax">health</text>
-          <text x="70" y="274" class="dg-ax">Birth</text><text x="330" y="274" text-anchor="middle" class="dg-ax">Middle age</text><text x="600" y="274" text-anchor="end" class="dg-ax">Old age</text>
-          <path d="M70 60 L300 62 C 380 66, 470 150, 600 240 L 600 250" fill="none" stroke="#5B6573" stroke-width="2.5" stroke-dasharray="6 6"/>
-          <path d="M70 60 L300 62 C 420 62, 520 70, 560 90 C 585 110, 595 200, 600 250" fill="none" stroke="url(#hsg)" stroke-width="4" stroke-linecap="round"/>
-          <path d="M300 62 C 420 62, 520 70, 560 90 C 585 110, 595 200, 600 245 L 600 240 C 470 150, 380 66, 300 62 Z" fill="#3E9A8D" fill-opacity=".12"/>
-          <text x="470" y="118" text-anchor="middle" class="dg-lab">Added healthy years</text>
-          <text x="400" y="190" class="dg-sub">Typical: slow decline,</text><text x="400" y="207" class="dg-sub">years lived in poor health</text>
-          <text x="330" y="45" class="dg-lab" fill="#2E7D72">Goal: healthy until late in life</text>
-        </svg>
-      </figure>
     </div>
+    <figure class="fig fig-hs reveal fig-full">
+      <figcaption class="fig-head">
+        <span class="kicker">Figure 1 · Healthspan</span>
+        <h3>Add healthy years, not just years</h3>
+        <div class="fig-legend" aria-hidden="true">
+          <span><i class="lg-goal"></i>Goal: healthy until late in life</span>
+          <span><i class="lg-typ"></i>Typical: slow decline</span>
+          <span><i class="lg-area"></i>Added healthy years</span>
+        </div>
+      </figcaption>
+      <svg class="fig-defs" width="0" height="0" aria-hidden="true" focusable="false"><defs>
+          <linearGradient id="hs-line" x1="0" x2="1"><stop offset="0" stop-color="#3E9A8D"/><stop offset=".55" stop-color="#4E62E0"/><stop offset=".8" stop-color="#7A50DF"/><stop offset="1" stop-color="#C9762E"/></linearGradient>
+          <linearGradient id="hs-fill" x1="0" x2="1"><stop offset=".35" stop-color="#3E9A8D" stop-opacity="0"/><stop offset=".7" stop-color="#3E9A8D" stop-opacity=".22"/><stop offset="1" stop-color="#7A50DF" stop-opacity=".22"/></linearGradient>
+        </defs></svg>
+      <svg class="fig-wide" viewBox="-40 0 800 384" role="img" aria-labelledby="hs-t hs-d">
+        <title id="hs-t">Healthspan: staying healthy until late in life</title>
+        <desc id="hs-d">Health over a lifetime, from birth through middle age to old age. Typically, health declines slowly from middle age and many years are lived in poor health. The goal is to stay in full health until late in life; the difference is added healthy years.</desc>
+        <g class="hs-grid"><line x1="80" y1="62" x2="728" y2="62"/><line x1="80" y1="191" x2="728" y2="191"/><line x1="80" y1="320" x2="728" y2="320"/></g>
+        <text x="66" y="66" text-anchor="end" class="hs-ax">Full health</text>
+        <text x="66" y="324" text-anchor="end" class="hs-ax">Poor health</text>
+        <line x1="80" y1="338" x2="736" y2="338" class="hs-axis"/><path d="M730 333 L738 338 L730 343" class="hs-axis" fill="none"/>
+        <g class="hs-ax"><text x="80" y="364">Birth</text><text x="400" y="364" text-anchor="middle">Middle age</text><text x="720" y="364" text-anchor="end">Old age</text></g>
+        <path d="M80 62 C 300 60, 520 60, 600 70 C 650 80, 680 140, 700 230 C 708 270, 714 305, 720 320 L 720 320 C 700 312, 680 296, 640 262 C 560 190, 450 92, 360 74 C 300 64, 200 62, 80 62 Z" fill="url(#hs-fill)"/>
+        <path class="hs-typ" d="M80 62 C 200 62, 300 64, 360 74 C 450 92, 560 190, 640 262 C 680 296, 700 312, 720 320"/>
+        <path class="hs-goal" pathLength="1" d="M80 62 C 300 60, 520 60, 600 70 C 650 80, 680 140, 700 230 C 708 270, 714 305, 720 320"/>
+        <circle cx="80" cy="62" r="5" class="hs-dot"/><circle cx="720" cy="320" r="5" class="hs-dot"/>
+        <g class="hs-brace"><line x1="612" y1="80" x2="612" y2="218"/><path d="M606 88 L612 78 L618 88 M606 210 L612 220 L618 210" fill="none"/></g>
+        <text x="598" y="102" text-anchor="end" class="hs-lab">Added</text>
+        <text x="598" y="121" text-anchor="end" class="hs-lab">healthy years</text>
+        <text x="560" y="44" text-anchor="end" class="hs-goal-lab">Goal: healthy until late in life</text>
+        <line x1="432" y1="222" x2="486" y2="146" class="hs-lead"/>
+        <text x="432" y="242" text-anchor="middle" class="hs-typ-lab">Typical: a slow decline,</text>
+        <text x="432" y="262" text-anchor="middle" class="hs-typ-lab">years lived in poor health</text>
+      </svg>
+      <svg class="fig-narrow" viewBox="0 0 360 290" role="img" aria-labelledby="hs-tm">
+        <title id="hs-tm">Healthspan: staying healthy until late in life, compared with a typical slow decline</title>
+        <g class="hs-grid"><line x1="52" y1="44" x2="344" y2="44"/><line x1="52" y1="234" x2="344" y2="234"/></g>
+        <text x="44" y="48" text-anchor="end" class="hs-ax">Full</text>
+        <text x="44" y="238" text-anchor="end" class="hs-ax">Poor</text>
+        <line x1="52" y1="250" x2="348" y2="250" class="hs-axis"/>
+        <g class="hs-ax"><text x="52" y="274">Birth</text><text x="196" y="274" text-anchor="middle">Middle age</text><text x="344" y="274" text-anchor="end">Old age</text></g>
+        <path d="M52 44 C 150 42, 250 42, 290 50 C 312 58, 326 104, 334 170 C 338 200, 341 222, 344 234 C 334 230, 322 220, 300 196 C 262 150, 220 74, 186 54 C 150 46, 100 44, 52 44 Z" fill="url(#hs-fill)"/>
+        <path class="hs-typ" d="M52 44 C 100 44, 150 46, 186 54 C 220 74, 262 150, 300 196 C 322 220, 334 230, 344 234"/>
+        <path class="hs-goal" pathLength="1" d="M52 44 C 150 42, 250 42, 290 50 C 312 58, 326 104, 334 170 C 338 200, 341 222, 344 234"/>
+        <circle cx="52" cy="44" r="4" class="hs-dot"/><circle cx="344" cy="234" r="4" class="hs-dot"/>
+      </svg>
+      <p class="fig-note">The 20th-century mission was to extend life expectancy. The 21st-century mission is to extend healthspan.</p>
+    </figure>
   </div>
 </article>
 
@@ -69,36 +99,42 @@ description: What William Mair wants everyone to understand about aging: life ex
       <p class="lede">The way we get sick when we are old is not the way we get sick when we are young.</p>
       <p>In old age, chronic diseases rarely come alone. They arrive together, because they share a common driver: the aging process itself. Medicine treats them one at a time. But cure one disease in an older person and you have not made them healthy; you have left them with one fewer comorbidity.</p>
       <p>Geroscience takes a different approach. It treats age as a risk factor that can be mitigated, and targets the aging process that underlies many diseases at once. The prize is a <strong>healthspan dividend</strong>: compressing the years of multiple illnesses at the end of life, which dramatically improves quality of life and reduces the burden age-related disease places on families, health systems and the economy.</p>
-      <figure class="diagram">
-        <svg viewBox="0 0 640 270" role="img" aria-labelledby="cm-t cm-d">
-          <title id="cm-t">Treating one disease versus targeting the aging process</title>
-          <desc id="cm-d">Left: treating a single disease leaves the other age-related diseases in place. Right: an intervention that targets the aging process acts on all of them at once.</desc>
-          <text x="150" y="26" text-anchor="middle" class="dg-lab">Treat one disease</text>
-          <text x="490" y="26" text-anchor="middle" class="dg-lab" fill="#2E7D72">Target the aging process</text>
-          <g class="dg-box">
-            <rect x="40" y="48" width="220" height="30" rx="8"/><text x="150" y="68" text-anchor="middle">Neurodegeneration</text>
-            <rect x="40" y="86" width="220" height="30" rx="8"/><text x="150" y="106" text-anchor="middle">Atherosclerosis</text>
-            <rect x="40" y="124" width="220" height="30" rx="8" class="dg-cut"/><text x="150" y="144" text-anchor="middle" class="dg-struck">Cancer</text>
-            <rect x="40" y="162" width="220" height="30" rx="8"/><text x="150" y="182" text-anchor="middle">Diabetes</text>
-            <rect x="40" y="200" width="220" height="30" rx="8"/><text x="150" y="220" text-anchor="middle">Obesity</text>
-          </g>
-          <text x="150" y="258" text-anchor="middle" class="dg-sub">One fewer comorbidity, not health</text>
-          <g class="dg-box dg-faint">
-            <rect x="420" y="48" width="180" height="30" rx="8"/><text x="510" y="68" text-anchor="middle">Neurodegeneration</text>
-            <rect x="420" y="86" width="180" height="30" rx="8"/><text x="510" y="106" text-anchor="middle">Atherosclerosis</text>
-            <rect x="420" y="124" width="180" height="30" rx="8"/><text x="510" y="144" text-anchor="middle">Cancer</text>
-            <rect x="420" y="162" width="180" height="30" rx="8"/><text x="510" y="182" text-anchor="middle">Diabetes</text>
-            <rect x="420" y="200" width="180" height="30" rx="8"/><text x="510" y="220" text-anchor="middle">Obesity</text>
-          </g>
-          <rect x="318" y="48" width="56" height="182" rx="10" fill="url(#hsg)" fill-opacity=".9"/>
-          <text x="346" y="139" text-anchor="middle" transform="rotate(-90 346 139)" class="dg-on">Aging process</text>
-          <g stroke="#7A50DF" stroke-width="1.6" fill="none" opacity=".7">
-            <path d="M374 63 H418"/><path d="M374 101 H418"/><path d="M374 139 H418"/><path d="M374 177 H418"/><path d="M374 215 H418"/>
-          </g>
-          <text x="490" y="258" text-anchor="middle" class="dg-sub">The healthspan dividend</text>
-        </svg>
-      </figure>
     </div>
+    <figure class="fig fig-cm reveal fig-full">
+      <figcaption class="fig-head">
+        <span class="kicker">Figure 2 · Comorbidity</span>
+        <h3>One disease at a time, or the process behind them all?</h3>
+      </figcaption>
+      <div class="cm-grid">
+        <div class="cm-panel">
+          <span class="cm-tag">Medicine today</span>
+          <h4>Treat one disease</h4>
+          <ul class="cm-list">
+            <li><i></i>Neurodegeneration</li>
+            <li><i></i>Atherosclerosis</li>
+            <li class="cm-cured"><i aria-hidden="true">✓</i><span>Cancer</span><em>treated</em></li>
+            <li><i></i>Diabetes</li>
+            <li><i></i>Obesity</li>
+          </ul>
+          <p class="cm-result"><strong>Result:</strong> one fewer comorbidity, not health.</p>
+        </div>
+        <div class="cm-panel cm-ger">
+          <span class="cm-tag">Geroscience</span>
+          <h4>Target the aging process</h4>
+          <div class="cm-hub">
+            <div class="cm-aging" aria-hidden="true"><span>Aging process</span></div>
+            <ul class="cm-list">
+              <li><i></i>Neurodegeneration</li>
+              <li><i></i>Atherosclerosis</li>
+              <li><i></i>Cancer</li>
+              <li><i></i>Diabetes</li>
+              <li><i></i>Obesity</li>
+            </ul>
+          </div>
+          <p class="cm-result"><strong>Result:</strong> many diseases delayed together. The healthspan dividend.</p>
+        </div>
+      </div>
+    </figure>
   </div>
 </article>
 
