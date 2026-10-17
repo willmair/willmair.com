@@ -21,7 +21,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 PAGES = ROOT / "pages"
 SITE = "https://willmair.com"
 V = str(int(time.time()))  # cache-busting version stamp
-PREVIEW = True  # True = tell search engines not to index (preview at willmair.github.io). Set False when willmair.com switches over.
+PREVIEW = False  # True = tell search engines not to index (preview at willmair.github.io). Set False when willmair.com switches over.
 
 NAV = [
     ("ideas.html", "Ideas"),
