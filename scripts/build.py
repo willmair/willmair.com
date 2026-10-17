@@ -213,7 +213,11 @@ FOOT = """</main>
 """
 
 JSONLD = """<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Person","name":"William Mair","alternateName":"William B. Mair","url":"https://willmair.com","image":"https://willmair.com/assets/img/william-mair-formal.jpg","jobTitle":"Professor of Molecular Metabolism","worksFor":{"@type":"Organization","name":"Harvard T.H. Chan School of Public Health"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University College London"}],"sameAs":["https://themairlab.com","https://www.linkedin.com/in/willmair/","https://orcid.org/0000-0002-0661-1342","https://hsph.harvard.edu/profile/william-b-mair/"]}
+{"@context":"https://schema.org","@graph":[
+{"@type":"Person","@id":"https://willmair.com/#person","name":"William Mair","alternateName":["Will Mair","William B. Mair"],"url":"https://willmair.com/","image":"https://willmair.com/assets/img/william-mair-formal.jpg","jobTitle":"Professor of Molecular Metabolism","description":"Professor of Molecular Metabolism at Harvard T.H. Chan School of Public Health and Director of the Harvard Chan Healthy Aging Initiative.","worksFor":{"@type":"CollegeOrUniversity","name":"Harvard T.H. Chan School of Public Health","url":"https://hsph.harvard.edu/"},"affiliation":{"@id":"https://themairlab.com/#lab"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University College London"},{"@type":"ResearchOrganization","name":"The Salk Institute for Biological Studies"}],"knowsAbout":["Biology of aging","Geroscience","Healthy aging","Metabolism","Healthspan"],"sameAs":["https://www.linkedin.com/in/willmair/","https://orcid.org/0000-0002-0661-1342","https://hsph.harvard.edu/profile/william-b-mair/","https://www.instagram.com/william_mair/"]},
+{"@type":"ResearchOrganization","@id":"https://themairlab.com/#lab","name":"MAIR Lab","url":"https://themairlab.com/","founder":{"@id":"https://willmair.com/#person"}},
+{"@type":"WebSite","@id":"https://willmair.com/#site","url":"https://willmair.com/","name":"William Mair","publisher":{"@id":"https://willmair.com/#person"}}
+]}
 </script>
 """
 
