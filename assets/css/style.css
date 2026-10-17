@@ -37,6 +37,7 @@ body {
   overflow-x: hidden;
 }
 img, svg { display: block; max-width: 100%; }
+img { height: auto; }
 a { color: inherit; text-decoration-color: color-mix(in srgb, var(--accent) 45%, transparent); text-underline-offset: 3px; }
 a:hover { color: var(--accent); }
 ::selection { background: var(--mint); color: var(--night); }
