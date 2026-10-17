@@ -25,6 +25,7 @@ PREVIEW = True  # True = tell search engines not to index (preview at willmair.g
 
 NAV = [
     ("ideas.html", "Ideas"),
+    ("geroscience.html", "Geroscience"),
     ("speaking.html", "Speaking"),
     ("media.html", "Media"),
     ("advocacy.html", "Advocacy"),

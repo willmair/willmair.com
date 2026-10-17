@@ -91,9 +91,9 @@ p { margin: 0 0 1em; }
 .nav-cta { background: var(--ink); color: #fff !important; padding: 10px 18px; border-radius: 999px; }
 .nav-cta:hover { background: var(--accent); }
 .nav-toggle { display: none; background: none; border: 0; padding: 8px; color: var(--ink); cursor: pointer; }
-@media (max-width: 920px) {
+@media (max-width: 1080px) {
   .nav-toggle { display: block; }
-  .nav { position: fixed; inset: 72px 0 auto 0; flex-direction: column; align-items: flex-start; gap: 0; background: var(--paper); border-bottom: 1px solid var(--line); padding: 8px var(--gutter) 20px; display: none; }
+  .nav { position: fixed; inset: 72px 0 auto 0; flex-direction: column; max-height: calc(100vh - 72px); overflow-y: auto; align-items: flex-start; gap: 0; background: var(--paper); border-bottom: 1px solid var(--line); padding: 8px var(--gutter) 20px; display: none; }
   .nav.open { display: flex; }
   .nav a { padding: 12px 0; width: 100%; font-size: 1.05rem; }
   .nav a[aria-current="page"]:not(.nav-cta) { box-shadow: none; color: var(--accent); }
@@ -410,3 +410,31 @@ figure { margin: 0; }
 .fig-full .fig-legend { grid-column: 2; grid-row: 1 / span 2; margin: 0; justify-content: flex-end; max-width: 380px; }
 @media (max-width: 860px) { .fig-full .fig-head { display: block; } .fig-full .fig-legend { justify-content: flex-start; margin-top: 14px; max-width: none; } }
 .fig-hs .fig-wide { max-width: 980px; margin: 0 auto; }
+
+/* ---- Geroscience page ---- */
+.compare { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+@media (max-width: 900px) { .compare { grid-template-columns: 1fr; } }
+.compare-card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; display: flex; flex-direction: column; }
+.compare-card.is-gero { background: var(--night); border-color: var(--night); color: #D7E0E4; position: relative; overflow: hidden; }
+.compare-card.is-gero::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 4px; background: var(--grad); }
+.compare-tag { align-self: flex-start; font: 600 .68rem/1 var(--head); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); padding: 7px 10px; border-radius: 999px; background: rgba(18,24,33,.05); }
+.is-gero .compare-tag { color: var(--night); background: var(--mint); }
+.compare-card h3 { font-size: 1.2rem; font-weight: 500; line-height: 1.3; margin: 16px 0 10px; }
+.is-gero h3 { color: #fff; }
+.compare-card p { font-size: 1rem; color: var(--ink-2); }
+.is-gero p { color: #B9C5CC; }
+.compare-card dl { margin: auto 0 0; padding-top: 14px; border-top: 1px solid var(--line); display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; font: 400 .86rem/1.45 var(--head); }
+.is-gero dl { border-top-color: rgba(255,255,255,.14); }
+.compare-card dt { font-weight: 600; color: var(--muted); }
+.is-gero dt { color: var(--mint); }
+.compare-card dd { margin: 0; color: var(--ink-2); }
+.is-gero dd { color: #D7E0E4; }
+.root-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: clamp(28px, 5vw, 64px); align-items: center; }
+@media (max-width: 900px) { .root-grid { grid-template-columns: 1fr; } }
+.root-fig { margin: 0; }
+.values { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+@media (max-width: 760px) { .values { grid-template-columns: 1fr; } }
+.value { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; }
+.value .n { font: 600 .75rem var(--head); color: var(--amber); letter-spacing: .1em; }
+.value h3 { font-size: 1.15rem; font-weight: 500; margin: 10px 0 8px; }
+.value p { font-size: 1rem; color: var(--ink-2); margin: 0; }
