@@ -121,7 +121,7 @@ section { padding: clamp(56px, 8vw, 104px) 0; }
 .portrait { position: relative; margin: 0; }
 @media (max-width: 860px) { .portrait { max-width: 340px !important; } }
 .portrait img { width: 100%; border-radius: var(--radius); aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 30%; background: var(--paper-2); }
-.portrait::after { content: ""; position: absolute; left: 18px; right: -14px; bottom: -14px; height: 4px; border-radius: 4px; background: var(--grad); }
+.portrait::after { content: ""; position: absolute; left: 0; right: 0; bottom: -14px; height: 4px; border-radius: 4px; background: var(--grad); }
 .portrait figcaption { font: 400 0.82rem/1.4 var(--head); color: var(--muted); margin-top: 26px; }
 .hero-roles { font: 500 0.95rem/1.5 var(--head); color: var(--ink-2); margin: 0 0 28px; }
 .hero-roles span { display: block; }
