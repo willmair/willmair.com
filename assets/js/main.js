@@ -100,3 +100,21 @@
     });
   }
 })();
+
+// CV: highlight the current section in the contents list
+(function () {
+  var links = document.querySelectorAll(".cv-toc a");
+  if (!links.length || !("IntersectionObserver" in window)) return;
+  var byId = {};
+  links.forEach(function (a) { byId[a.getAttribute("href").slice(1)] = a; });
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (en.isIntersecting) {
+        links.forEach(function (a) { a.classList.remove("on"); });
+        var a = byId[en.target.id];
+        if (a) a.classList.add("on");
+      }
+    });
+  }, { rootMargin: "-20% 0px -70% 0px" });
+  document.querySelectorAll(".cv-sec").forEach(function (s) { io.observe(s); });
+})();

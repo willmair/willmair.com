@@ -1,0 +1,2132 @@
+{
+ "source": "Mair_CV_2026-10-27.docx",
+ "name": "William B. Mair",
+ "tagline": "Professor of Molecular Metabolism · Director, Harvard Chan Healthy Aging Initiative",
+ "updated": "27 October 2026",
+ "glance": [
+  {
+   "label": "Research",
+   "html": "Fundamental mechanisms of metabolic flexibility, nutrient and energy sensing (AMPK, mTORC1, CRTC-1), organelle dynamics and RNA splicing in healthy aging; discovery biology in <em>C. elegans</em> with translation toward precision geroscience."
+  },
+  {
+   "label": "Leadership",
+   "html": "Director, Harvard Chan Healthy Aging Initiative (2024-). Co-founding Director, MBL Biology of Aging course (2023-). Organizer, CSHL Mechanisms of Aging meeting (2022, 2024, 2026). Co-chair, Fusion Interventions in Aging (2025, 2027). Chief Scientific Advisor, <a href=\"https://www.thewndrlab.com\" target=\"_blank\" rel=\"noopener\">The WNDR Lab</a> (2025-)."
+  },
+  {
+   "label": "Record",
+   "html": "37 primary research papers incl. <em>Nature</em>, <em>Science</em>, <em>Cell</em>, <em>Nature Aging</em>, <em>Nature Cell Biology</em> and <em>Cell Metabolism</em> · h-index 36 · &gt;13,000 citations · 5 NIH R01s as PI · open genetic toolkits and strains built for the field and shared via the CGC, Addgene and direct distribution · 14 postdocs and 9 PhD students trained; 4 alumni now independent faculty."
+  },
+  {
+   "label": "Service",
+   "html": "Former permanent member, NIH CMAD study section (2020-24) · Academic Editor, <em>PLOS Biology</em> · Elected member, Academy of Geroscience (2025) · Scientific Advisory Board, Babraham Institute (2025-) · External Advisory Board, UCSF Bakar Aging Research Institute (2021-)."
+  }
+ ],
+ "sections": [
+  {
+   "title": "Research overview",
+   "id": "research-overview",
+   "blocks": [
+    {
+     "type": "para",
+     "html": "I am a molecular geneticist who studies why age is the greatest risk factor for chronic disease, and how that risk can be reduced. My central hypothesis is that aging and age-related disease stem from a progressive loss of metabolic flexibility, the capacity of cells, tissues and whole organisms to respond acutely and appropriately to changes in nutrient supply, and that restoring this \"homeodynamic\" capacity can promote healthy aging."
+    },
+    {
+     "type": "para",
+     "html": "As a graduate student with Linda Partridge I described the first late-onset dietary intervention to reverse mortality trajectories in <em>Drosophila</em> and showed that macronutrient balance, not calories, drives the longevity effect of dietary restriction. As a postdoc with Andrew Dillin I identified CRTC coactivators as direct longevity targets of the energy sensor AMPK. My own group at Harvard has since defined how AMPK and mTORC1 integrate in the nervous system to regulate systemic aging cell non-autonomously; discovered causal roles for RNA splicing factors in longevity and in individual variation in response to interventions; and established organelle plasticity, mitochondrial network dynamics, ER-mitochondrial calcium signaling and, most recently, peroxisomal function, as the effector arm through which nutrient sensors govern metabolic aging. Along the way we have built widely used genetic tools in <em>C. elegans</em> for single-copy knock-in, tissue-specific ribosome profiling and acute protein degradation."
+    },
+    {
+     "type": "para",
+     "html": "The next phase is precision geroscience: defining biomarkers that predict who will respond to which intervention, and translating these mechanisms into mammalian systems and human cohorts. As Director of the Harvard Chan Healthy Aging Initiative I work to integrate the biology of aging with public health, with a particular focus on the inequities in healthy aging that make this a public-health emergency rather than a luxury problem."
+    }
+   ]
+  },
+  {
+   "title": "Education and training",
+   "id": "education-and-training",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2006-2011",
+     "html": "<strong>Postdoctoral Fellow</strong>, Molecular and Cell Biology Laboratory / Glenn Center for Aging Research, The Salk Institute for Biological Studies, La Jolla, CA. Advisor: Dr. Andrew Dillin."
+    },
+    {
+     "type": "entry",
+     "when": "2001-2005",
+     "html": "<strong>Ph.D., Biology</strong>, University College London, UK. Advisor: Professor Dame Linda Partridge. (BBSRC-funded)"
+    },
+    {
+     "type": "entry",
+     "when": "1997-2000",
+     "html": "<strong>B.Sc. (Hons), Genetics</strong>, First Class, University College London, UK."
+    }
+   ]
+  },
+  {
+   "title": "Academic appointments",
+   "id": "academic-appointments",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Professor of Molecular Metabolism</strong>, Department of Molecular Metabolism, Harvard T.H. Chan School of Public Health (tenured)."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Director, Harvard Chan Healthy Aging Initiative</strong>, Harvard T.H. Chan School of Public Health."
+    },
+    {
+     "type": "entry",
+     "when": "2019-",
+     "html": "<strong>Affiliate Faculty</strong>, Department of Stem Cell and Regenerative Biology, Harvard University / Harvard Medical School."
+    },
+    {
+     "type": "entry",
+     "when": "2017-2024",
+     "html": "<strong>Associate Professor</strong>, Department of Molecular Metabolism (formerly Genetics and Complex Diseases), Harvard T.H. Chan School of Public Health."
+    },
+    {
+     "type": "entry",
+     "when": "2011-2017",
+     "html": "<strong>Assistant Professor</strong>, Department of Genetics and Complex Diseases, Harvard T.H. Chan School of Public Health."
+    }
+   ]
+  },
+  {
+   "title": "Leadership, advisory and editorial roles",
+   "id": "leadership-advisory-and-editorial-roles",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2026-",
+     "html": "<strong>Steering Committee</strong>, DiAL Health 2.0 Consortium (Pennington Biomedical Research Center-led multi-site study; Harvard site with C. Peterson)."
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>Scientific Advisory Board</strong>, Babraham Institute, Cambridge, UK."
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>International Advisory Board</strong>, Center for Aging Research (CARe), UNICAMP, Brazil (FAPESP-funded)."
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>Chief Scientific Advisor</strong>, <a href=\"https://www.thewndrlab.com\" target=\"_blank\" rel=\"noopener\">The WNDR Lab</a>, Boston, MA; scientific lead for a consumer healthy-aging venture."
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>Founding Editorial Board Member</strong>, <em>Geromedicine</em>."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Director, Harvard Chan Healthy Aging Initiative</strong>; founded and lead the School-wide initiative to integrate aging biology with public health: launched the Initiative and its public site (2025); secured a Danone Institute North America partnership ($250,000, 2026) and $400,000 in philanthropic gifts (2026); convened the inaugural Healthy Aging Symposium (~200 attendees, Oct 2026) and the <em>Aging Reframed</em> interdisciplinary seminar (2026); designed Harvard ALI Deep Dives on longevity (2025, 2026); led Massachusetts State House briefings on aging biology (2025, 2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2023-",
+     "html": "<strong>Co-founding Director</strong> (with Dr. Jennifer Garrison, Buck Institute), MBL Biology of Aging Advanced Research Training Course, Marine Biological Laboratory, Woods Hole, MA. Biennial four-week immersive research course (2023, 2025, 2027), now regarded as a leading training program for future geroscience leaders; 18 students per cohort from five continents; funded by the Glenn Foundation, AFAR/Hevolution and the Academy of Geroscience."
+    },
+    {
+     "type": "entry",
+     "when": "2021-",
+     "html": "<strong>External Advisory Board</strong>, Bakar Aging Research Institute (BARI), University of California San Francisco."
+    },
+    {
+     "type": "entry",
+     "when": "2020-",
+     "html": "<strong>National Scientific Advisory Council</strong>, American Federation for Aging Research (AFAR)."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2021",
+     "html": "<strong>Co-founder</strong> (with D. Lamming), <em>Aging Science Talks</em>; free daily online seminar series launched within days of the March 2020 shutdown; six months of talks, 400-500 live attendees at peak, presenters from four continents, and a 3,000-member Slack community that persists. Described in Lamming &amp; Carter, <em>Transl Med Aging</em> 2020; 4:55-59 <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32835151/\" target=\"_blank\" rel=\"noopener\">PubMed</a> and Mair, <em>Transl Med Aging</em> 2020; 4:86-87 <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32835153/\" target=\"_blank\" rel=\"noopener\">PubMed</a>; trainee perspective by Mair Lab student H. J. Smith, <em>Transl Med Aging</em> 2020; 4:76-77 <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/33251397/\" target=\"_blank\" rel=\"noopener\">PubMed</a>."
+    },
+    {
+     "type": "entry",
+     "when": "2022-2026",
+     "html": "<strong>Organizer</strong>, Cold Spring Harbor Laboratory <em>Mechanisms of Aging</em> meeting (2022, 2024, 2026); the field's premier biennial international meeting (350-400 attendees); responsible for program, session chairs and short-talk selection; secured NIH R13 conference support (2022)."
+    },
+    {
+     "type": "entry",
+     "when": "2018-",
+     "html": "<strong>Founder and Inaugural Chair</strong>, My Age Group; international peer-mentoring network of ten aging-biology PIs (US/Europe); annual closed-door science meetings since 2018."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Academic Editor</strong>, <em>PLOS Biology</em>; Guest Editor of its 2026 Aging Collection."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2024",
+     "html": "<strong>Permanent Member</strong>, NIH Cellular Mechanisms of Aging and Development (CMAD) Study Section."
+    }
+   ]
+  },
+  {
+   "title": "Honors and awards",
+   "id": "honors-and-awards",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Elected Member, <strong>Academy of Geroscience</strong> (formerly Academy for Health and Lifespan Research)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<strong>Dean's Special Lecture</strong>, University of Miami Miller School of Medicine."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "<strong>Keynote Speaker</strong>, 20th Anniversary Symposium, UCL Institute of Healthy Ageing, London."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "<strong>Armen H. Tashjian Jr. Award for Excellence in Endocrine Research</strong>, Harvard T.H. Chan School of Public Health."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "<strong>Breakthroughs in Gerontology (BIG) Award</strong>, American Federation for Aging Research / Glenn Foundation."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "<strong>Glenn Award for Research in Biological Mechanisms of Aging</strong>, Glenn Foundation for Medical Research."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Nominee, Helmholtz Young Investigator Diabetes (HeIDi) Award."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "<strong>William F. Milton Fund Award</strong>, Harvard University."
+    },
+    {
+     "type": "entry",
+     "when": "2012",
+     "html": "<strong>New Scholar in Aging Research Award</strong>, Ellison Medical Foundation."
+    },
+    {
+     "type": "entry",
+     "when": "2012",
+     "html": "Fellow, NIA 20th Annual Summer Training Course in Experimental Aging Research."
+    },
+    {
+     "type": "entry",
+     "when": "2010",
+     "html": "AFAR / Ellison Medical Foundation Postdoctoral Fellowship; Glenn Center for Aging Research Postdoctoral Fellowship."
+    },
+    {
+     "type": "entry",
+     "when": "2007",
+     "html": "George E. Hewitt Foundation for Medical Research Postdoctoral Fellowship."
+    },
+    {
+     "type": "entry",
+     "when": "2006",
+     "html": "Pioneer Endowment Fund Postdoctoral Fellowship, The Salk Institute."
+    },
+    {
+     "type": "entry",
+     "when": "2001",
+     "html": "BBSRC Ph.D. Studentship, University College London."
+    }
+   ]
+  },
+  {
+   "title": "Research support",
+   "id": "research-support",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Active"
+    },
+    {
+     "type": "entry",
+     "when": "2013-2031",
+     "html": "<strong>NIH/NIA R01 AG044346</strong> (competing renewal 2R01AG044346-11, 2026-2031). PI: Mair. <em>Mechanisms Specific to the Beneficial Effects of Dietary Restriction.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2026-2028",
+     "html": "<strong>Danone Institute North America</strong> research agreement. MPI: Mair &amp; C. Peterson. <em>Healthy Aging Symposium and Pilot Grant Program</em> ($250,000)."
+    },
+    {
+     "type": "entry",
+     "when": "2026-2028",
+     "html": "<strong>Philanthropic gift (anonymous donor)</strong> supporting Mair Lab aging research ($200,000)."
+    },
+    {
+     "type": "entry",
+     "when": "2026-2027",
+     "html": "<strong>Philanthropic gift, Michael Jennings</strong>; automated lifespan platform (Nagi Bioscience SydLab One) for the Mair Lab ($200,000)."
+    },
+    {
+     "type": "entry",
+     "when": "2022-2027",
+     "html": "<strong>NIH/NIA R01 AG071966</strong>. PI: E. Chouchani (DFCI); Harvard site PI: Mair. <em>Defining the Landscape and Mechanisms of Protein Redox Regulation during Aging.</em>"
+    },
+    {
+     "type": "sub",
+     "title": "Completed"
+    },
+    {
+     "type": "entry",
+     "when": "2022-2025",
+     "html": "<strong>AFAR / Glenn Foundation Breakthroughs in Gerontology Award</strong> (subaward). PI: E. Chouchani; co-I: Mair. <em>Defining the Functional Landscape of Protein Redox Regulation during Aging.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2020-2025",
+     "html": "<strong>NIH/NIA R01 AG067106</strong>. PI: Mair. <em>Reversing Loss of Metabolic Homeostasis to Ameliorate Alzheimer's Disease Pathogenicity.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2018-2024",
+     "html": "<strong>NIH/NIA R01 AG059595</strong>. PI: Mair. <em>Cell Non-autonomous Regulation of Aging via Neuronal TORC1.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2018-2022",
+     "html": "<strong>AbbVie</strong> collaborative research agreement. PI: Mair. <em>Neuron-specific tau models in C. elegans.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2021-2022",
+     "html": "<strong>NIH/NIA R56 AG071966</strong> (bridge award). PI: E. Chouchani; co-I: Mair."
+    },
+    {
+     "type": "entry",
+     "when": "2017-2022",
+     "html": "<strong>NIH/NIA R01 AG051954</strong>. PI: Mair. <em>Targeting RNA Homeostasis to Promote Healthy Aging.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2016-2022",
+     "html": "<strong>NIH/NIA R01 AG054201</strong>. MPI: A. Brunet (Stanford) &amp; Mair. <em>Link between Epigenetic Modifiers and Fat Metabolism for Healthy Aging.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2018-2020",
+     "html": "<strong>NIH/NIA R21 AG056930</strong>. PI: Mair. <em>Defining Functional Outputs of Mitochondrial Networks in Longevity.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2017-2019",
+     "html": "<strong>AFAR Breakthroughs in Gerontology (BIG) Award</strong>. PI: Mair."
+    },
+    {
+     "type": "entry",
+     "when": "2016-2017",
+     "html": "<strong>Glenn Foundation for Medical Research, Glenn Award</strong> (unsolicited). PI: Mair."
+    },
+    {
+     "type": "entry",
+     "when": "2014-2016",
+     "html": "<strong>Ellison Medical Foundation New Scholar in Aging Research Award</strong>. PI: Mair. <em>Uncoupling Positive and Negative Effects of Dietary Restriction.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2013-2014",
+     "html": "<strong>William F. Milton Fund</strong>, Harvard University. PI: Mair. <em>The Molecular Framework Linking Energy Sensing to the Unfolded Protein Response.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2012-2013",
+     "html": "<strong>Harvard TREC Center Pilot Grant</strong>. PI: Mair. <em>Mechanisms by which Low Calorie Intake Reduces Tumorigenesis.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "",
+     "html": "Dean's Research Accelerator Award, Harvard T.H. Chan School of Public Health."
+    },
+    {
+     "type": "sub",
+     "title": "Fellowships and Grants Awarded to Trainees"
+    },
+    {
+     "type": "entry",
+     "when": "2026-2031",
+     "html": "NIH/NIA K99/R00 AG092471; Dr. Christopher Morrow. <em>Peeling Back the Layers of Mitochondrial Aging.</em>"
+    },
+    {
+     "type": "entry",
+     "when": "2026-2027",
+     "html": "Gordon and Betty Moore Foundation Postdoctoral Fellowship; Dr. Aditi Prabhakar."
+    },
+    {
+     "type": "entry",
+     "when": "2025-2027",
+     "html": "Swedish Research Council International Postdoctoral Fellowship; Dr. Jamie Kraft."
+    },
+    {
+     "type": "entry",
+     "when": "2024-2026",
+     "html": "NIH/NIA F32 AG085703; Dr. Christopher Morrow."
+    },
+    {
+     "type": "entry",
+     "when": "2023-2025",
+     "html": "NIH/NIA K99/R00 AG078343; Dr. Arpit Sharma. NIH/NIA F31 AG077729; Maria Perez Matos."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2024",
+     "html": "NIH/NIA F31 AG076296; Hannah Smith."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2023",
+     "html": "NIH/NIA K99/R00 AG065508; Dr. Carlos Silva-García. NSF Graduate Research Fellowship; Noel Jackson."
+    },
+    {
+     "type": "entry",
+     "when": "2019-2022",
+     "html": "NIH/NIA F31 AG066458; Pallas Yao."
+    },
+    {
+     "type": "entry",
+     "when": "Earlier",
+     "html": "NIH/NIA F32 and K99/R00; Dr. Kristopher Burkewitz; Swiss National Science Foundation, Luxembourg National Research Fund and King's Trust postdoctoral fellowships; Dr. Caroline Heintz; NIA Diversity Supplement; Dr. Porsha Howell; Yerby Fellowship; Dr. Carlos Silva-García; King's Trust Fellowship (declined); Dr. Kristopher Burkewitz."
+    }
+   ]
+  },
+  {
+   "title": "Industry engagement and consulting",
+   "id": "industry-engagement-and-consulting",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>Chief Scientific Advisor</strong>, <a href=\"https://www.thewndrlab.com\" target=\"_blank\" rel=\"noopener\">The WNDR Lab</a>, Boston, MA; scientific lead for a consumer healthy-aging venture; evidence standards, product science and public communication."
+    },
+    {
+     "type": "entry",
+     "when": "2026-2028",
+     "html": "<strong>Research partnership</strong>, Danone Institute North America; <em>Healthy Aging Symposium and Pilot Grant Program</em> (co-PI with C. Peterson; $250,000)."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2022",
+     "html": "<strong>Sponsored research agreement</strong>, AbbVie; neuron-specific tau models of Alzheimer's disease in <em>C. elegans</em> (PI)."
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "<strong>Scientific Advisory Board</strong>, Babraham Institute, Cambridge, UK (aging research strategy and ten-year science vision)."
+    },
+    {
+     "type": "entry",
+     "when": "",
+     "html": "All external relationships are disclosed and managed under Harvard T.H. Chan School of Public Health conflict-of-interest policy."
+    }
+   ]
+  },
+  {
+   "title": "Publications",
+   "id": "publications",
+   "blocks": [
+    {
+     "type": "para",
+     "html": "Lab papers are posted as preprints before peer review; the preprint is linked after each entry. h-index 36 · i10-index 52 · 13,274 citations (Google Scholar, 26 October 2026) · ORCID 0000-0002-0661-1342 · <a href=\"https://scholar.google.com/citations?user=Ben7hEIAAAAJ\" target=\"_blank\" rel=\"noopener\">Google Scholar</a>"
+    },
+    {
+     "type": "sub",
+     "title": "Primary Research Articles (37)"
+    },
+    {
+     "type": "entry",
+     "when": "1.",
+     "html": "Plesa AM, Jung S, Wang HH, Omar F, Shadpour M, Choy Buentello D, Perez-Matos MC, Horwitz N, Cai G, Ngian ZK, Magalhaes C, Wagers AJ, <strong>Mair WB</strong>, Del Sol A, Church GM. Transcriptomic reprogramming screen identifies SRSF1 as a regulator of aging. <em>Nature Aging</em> 2026; 6:2057-2073. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/42875585/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2023.11.13.566787\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "2.",
+     "html": "Sharma A, Prabhakar A, Valera-Alberni M, Kraft JD, Ellis AE, Sheldon RD, Mistry M, Yao P, Liang Y, Hui S, <strong>Mair WB.</strong> Peroxisomes orchestrate metabolic flexibility and longevity via an interorganelle cascade. <em>Nature Aging</em> 2026; 6:987-1006. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/42162381/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2025.02.14.638340\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "3.",
+     "html": "Dutta S, Perez Matos MC, Heintz C, Mutlu AS, Piper M, Mistry M, Sharma A, Morrow CS, Smith H, Howell P, Sehgal R, Lanjuin A, Wang MC, <strong>Mair WB.</strong> The efficacy of longevity interventions in Caenorhabditis elegans is determined by the early life activity of RNA splicing factors. <em>PLoS Biology</em> 2025; 23:e3003504. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/41270125/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2021.11.01.466772\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "4.",
+     "html": "Morrow CS, Yao P, Vergani-Junior CA, Anekal PV, Montero Llopis P, Miller JW, Benayoun BA, <strong>Mair WB.</strong> Endogenous mitochondrial NAD(P)H fluorescence can predict lifespan. <em>Communications Biology</em> 2024; 7:1551. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/39572679/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "5.",
+     "html": "Valera-Alberni M, Yao P, Romero-Sanz S, Lanjuin A, <strong>Mair WB.</strong> Novel imaging tools to study mitochondrial morphology in Caenorhabditis elegans. <em>Life Science Alliance</em> 2024; 7:e202402918. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/39260886/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2024.07.16.603730\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "6.",
+     "html": "Vergani-Junior CA, Moro RP, Pinto S, De-Souza EA, Camara H, Braga DL, Tonon-da-Silva G, Knittel TL, Ruiz GP, Ludwig RG, Massirer KB, <strong>Mair WB</strong>, Mori MA. An intricate network involving the Argonaute ALG-1 modulates organismal resistance to oxidative stress. <em>Nature Communications</em> 2024; 15:3070. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/38594249/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "7.",
+     "html": "Stojanovski K, Gheorghe I, Lenart P, Lanjuin A, <strong>Mair WB</strong>, Towbin BD. Maintenance of appropriate size scaling of the C. elegans pharynx by YAP-1. <em>Nature Communications</em> 2023; 14:7564. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37985670/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2022.09.05.506666\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "8.",
+     "html": "Smith HJ, Lanjuin A, Sharma A, Prabhakar A, Nowak E, Stine PG, Sehgal R, Stojanovski K, Towbin BD, <strong>Mair WB.</strong> Neuronal mTORC1 inhibition promotes longevity without suppressing anabolic growth and reproduction in C. elegans. <em>PLoS Genetics</em> 2023; 19:e1010938. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37721956/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2021.08.12.456148\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "9.",
+     "html": "Silva-García CG, Lascarez-Lagunas LI, Heintz C, Papsdorf K, Pajuelo L, Sharma A, Colaiácovo MP, Brunet A, <strong>Mair WB.</strong> The CRTC-1 transcriptional domain is required for COMPASS complex-mediated longevity in C. elegans. <em>Nature Aging</em> 2023; 3:1358-1371. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37946042/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2022.08.31.506037\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "10.",
+     "html": "Papsdorf K, Miklas JW, Hosseini A, Cabruja M, Morrow CS, Savini M, Yu Y, Silva-García CG, Haseley NR, Murphy LM, Yao P, de Launoit E, Dixon SJ, Snyder MP, Wang MC, <strong>Mair WB</strong>, Brunet A. Lipid droplets and peroxisomes are co-regulated to drive lifespan extension in response to mono-unsaturated fatty acids. <em>Nature Cell Biology</em> 2023; 25:672-684. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37127715/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.21203/rs.3.rs-740521/v1\" target=\"_blank\" rel=\"noopener\">Research Square</a>"
+    },
+    {
+     "type": "entry",
+     "when": "11.",
+     "html": "Wester LE, Lanjuin A, Bruckisch EHW, Perez-Matos MC, Stine PG, Heintz C, Denzel MS, <strong>Mair WB.</strong> A single-copy knock-in translating ribosome immunoprecipitation (SKI TRIP) tool kit for tissue-specific profiling of actively translated mRNAs in C. elegans. <em>Cell Reports Methods</em> 2023; 3:100433. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37056370/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2021.12.22.473890\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "12.",
+     "html": "Savini M, Folick A, Lee YT, Jin F, Cuevas A, Tillman MC, Duffy JD, Zhao Q, Neve IA, Hu PW, Yu Y, Zhang Q, Ye Y, <strong>Mair WB</strong>, Wang J, Han L, Ortlund EA, Wang MC. Lysosome lipid signalling from the periphery to neurons regulates longevity. <em>Nature Cell Biology</em> 2022; 24:906-916. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/35681008/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2021.06.10.447794\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "13.",
+     "html": "Statzer C, Meng J, Venz R, Bland M, Robida-Stubbs S, Patel K, Petrovic D, Emsley R, Liu P, Morantte I, Haynes C, <strong>Mair WB</strong>, Longchamp A, Filipovic MR, Blackwell TK, Ewald CY. ATF-4 and hydrogen sulfide signalling mediate longevity in response to inhibition of translation or mTORC1. <em>Nature Communications</em> 2022; 13:967. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/35181679/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2020.11.02.364703\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "14.",
+     "html": "Kelley CA, Triplett O, Mallick S, Burkewitz K, <strong>Mair WB</strong>, Cram EJ. FLN-1/filamin is required to anchor the actomyosin cytoskeleton and for global organization of sub-cellular organelles in a contractile tissue. <em>Cytoskeleton</em> 2020; 77:379-398. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32969593/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2020.07.03.186965\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "15.",
+     "html": "Burkewitz K, Feng G, Dutta S, Kelley CA, Steinbaugh M, Cram EJ, <strong>Mair WB.</strong> Atf-6 regulates lifespan through ER-mitochondrial calcium homeostasis. <em>Cell Reports</em> 2020; 32:108125. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32905769/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2020.01.14.906693\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "16.",
+     "html": "Liu YJ, McIntyre RL, Janssens GE, Williams EG, Lan J, van Weeghel M, Schomakers B, van der Veen H, van der Wel NN, Yao P, <strong>Mair WB</strong>, Aebersold R, MacInnes AW, Houtkooper RH. Mitochondrial translation and dynamics synergistically extend lifespan in C. elegans through HLH-30. <em>J Cell Biol</em> 2020; 219:e201907067. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32259199/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/871079\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "17.",
+     "html": "Zhang Y, Lanjuin A, Chowdhury SR, Mistry M, Silva-García CG, Weir HJ, Lee CL, Escoubas CC, Tabakovic E, <strong>Mair WB.</strong> Neuronal TORC1 modulates longevity via AMPK and cell nonautonomous regulation of mitochondrial dynamics in C. elegans. <em>eLife</em> 2019; 8:e49158. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/31411562/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/665190\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "18.",
+     "html": "Silva-García CG, Lanjuin A, Heintz C, Dutta S, Clark NM, <strong>Mair WB.</strong> Single-copy knock-in loci for defined gene expression in Caenorhabditis elegans. <em>G3</em> 2019; 9:2195-2198. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/31064766/\" target=\"_blank\" rel=\"noopener\">PubMed</a> Preprint: <a class=\"cv-pill\" href=\"https://doi.org/10.1101/500892\" target=\"_blank\" rel=\"noopener\">bioRxiv</a>"
+    },
+    {
+     "type": "entry",
+     "when": "19.",
+     "html": "Weir HJ, Yao P, Huynh FK, Escoubas CC, Goncalves RL, Burkewitz K, Laboy R, Hirschey MD, <strong>Mair WB.</strong> Dietary restriction and AMPK increase lifespan via mitochondrial network and peroxisome remodeling. <em>Cell Metabolism</em> 2017; 26:884-896. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/29107506/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "20.",
+     "html": "Han S, Schroeder EA, Silva-García CG, Hebestreit K, <strong>Mair WB</strong>, Brunet A. Mono-unsaturated fatty acids link H3K4me3 modifiers to longevity in C. elegans. <em>Nature</em> 2017; 544:185-190. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/28379943/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "21.",
+     "html": "Heintz C, Doktor T, Lanjuin A, Escoubas C, Zhang Y, Weir H, Dutta S, Silva-García CG, Hoffmann Bruun G, Morantte I, Hoxhaj G, Manning BD, Andresen BS, <strong>Mair WB.</strong> Splicing Factor 1 modulates dietary restriction and TORC1 pathway longevity in C. elegans. <em>Nature</em> 2017; 541:102-106. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/27919065/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "22.",
+     "html": "Reis Rodrigues P, Kaul TK, Ho JH, Lucanic M, Burkewitz K, <strong>Mair WB</strong>, Held JM, Bohn LM, Gill MS. Synthetic ligands of cannabinoid receptors affect dauer formation in the nematode Caenorhabditis elegans. <em>G3</em> 2016; 6:1695-1705. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/27172180/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "23.",
+     "html": "Hou L, Wang D, Chen D, Liu Y, Zhang Y, Cheng H, Xu C, Sun N, McDermott J, <strong>Mair WB</strong>, Han JD. A systems approach to reverse engineer lifespan extension by dietary restriction. <em>Cell Metabolism</em> 2016; 23:529-540. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/26959186/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "24.",
+     "html": "Jacobi D, Liu S, Burkewitz K, Kory N, Knudsen NH, Alexander RK, Unluturk U, Li X, Kong X, Hyde AL, Gangl MR, <strong>Mair WB</strong>, Lee CH. Hepatic Bmal1 regulates rhythmic mitochondrial dynamics and promotes metabolic fitness. <em>Cell Metabolism</em> 2015; 22:709-720. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/26365180/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "25.",
+     "html": "Burkewitz K, Morantte I, Weir HJM, Yeo R, Zhang Y, Huynh FK, Ilkayeva OR, Hirschey MD, Grant AR, <strong>Mair WB.</strong> Neuronal CRTC-1 governs systemic mitochondrial metabolism and lifespan via a catecholamine signal. <em>Cell</em> 2015; 160:842-855. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/25723162/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "26.",
+     "html": "Hine C, Harputlugil E, Zhang Y, Ruckenstuhl C, Lee BC, Brace L, Longchamp A, Trevino-Villarreal JH, Mejia P, Ozaki CK, Wang R, Gladyshev VN, Madeo F, <strong>Mair WB</strong>, Mitchell JR. Endogenous hydrogen sulfide production is essential for dietary restriction benefits. <em>Cell</em> 2015; 160:132-144. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/25542313/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "27.",
+     "html": "Hwang AB, Ryu E, Artan M, Chang H, Kabir MH, Nam H, Lee D, Yang J, Kim S, <strong>Mair WB</strong>, Lee C, Lee SS, Lee S. Feedback regulation via AMPK and HIF-1 mediates ROS-dependent longevity in C. elegans. <em>Proc Natl Acad Sci USA</em> 2014; 111:E4458-E4467. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/25288734/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "28.",
+     "html": "<strong>Mair W</strong>, Morantte I, Rodrigues APC, Manning G, Montminy M, Shaw RJ, Dillin A. Lifespan extension induced by AMPK and calcineurin is mediated by CRTC-1 and CREB. <em>Nature</em> 2011; 470:404-408. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/21331044/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "29.",
+     "html": "Egan DF, Shackelford DB, Mihaylova MM, Gelino S, Kohnz RA, <strong>Mair W</strong>, Vasquez DS, et al. Phosphorylation of ULK1 (hATG1) by AMP-activated protein kinase connects energy sensing to mitophagy. <em>Science</em> 2011; 331:456-461. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/21205641/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "30.",
+     "html": "Capelson M, Liang Y, Schulte R, <strong>Mair W</strong>, Wagner U, Hetzer MW. Chromatin-bound nuclear pore components regulate gene expression in higher eukaryotes. <em>Cell</em> 2010; 140:372-383. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/20144761/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "31.",
+     "html": "<strong>Mair W</strong>*, McLeod CJ*, Wang L, Jones DL. Dietary restriction enhances germline stem cell maintenance. <em>Aging Cell</em> 2010; 9:916-918. *equal contribution. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/20569233/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "32.",
+     "html": "<strong>Mair W</strong>§, Panowski SH, Shaw RJ, Dillin A§. Optimizing dietary restriction for genetic epistasis analysis and gene discovery in C. elegans. <em>PLoS One</em> 2009; 4:e4535. §co-corresponding. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/19229346/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "33.",
+     "html": "Magwere T, Goodall S, Skepper J, <strong>Mair W</strong>, Brand MD, Partridge L. The effect of dietary restriction on mitochondrial protein density and flight muscle mitochondrial morphology in Drosophila. <em>J Gerontol A</em> 2006; 61:36-47. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/16456193/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "34.",
+     "html": "<strong>Mair W</strong>, Piper MDW, Partridge L. Calories do not explain extension of life span by dietary restriction in Drosophila. <em>PLoS Biology</em> 2005; 3:e223. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/16000018/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "35.",
+     "html": "Hulbert AJ, Clancy DJ, <strong>Mair W</strong>, Braeckman BP, Gems D, Partridge L. Metabolic rate is not reduced by dietary-restriction or by lowered insulin/IGF-1 signalling and is not correlated with individual lifespan in Drosophila melanogaster. <em>Exp Gerontol</em> 2004; 39:1137-1143. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/15288688/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "36.",
+     "html": "<strong>Mair W</strong>, Sgrò CM, Johnson AP, Chapman T, Partridge L. Lifespan extension by dietary restriction in female Drosophila melanogaster is not caused by a reduction in vitellogenesis or ovarian activity. <em>Exp Gerontol</em> 2004; 39:1011-1019. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/15236760/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "37.",
+     "html": "<strong>Mair W</strong>, Goymer P, Pletcher SD, Partridge L. Demography of dietary restriction and death in Drosophila. <em>Science</em> 2003; 301:1731-1733. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/14500985/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "sub",
+     "title": "Preprints (not yet published elsewhere)"
+    },
+    {
+     "type": "entry",
+     "when": "1.",
+     "html": "Shin S, Korobkina ED, Lennicke C, Burger N, Zhang B, Xiao H, Wang Y, Petrocelli JJ, Wei SM, Wood D, Lei Y, Zhang X, Perez-Matos MC, Sharif MA, Zhang J, Cochemé HM, <strong>Mair WB</strong>, Chouchani ET. Redox activation of ATG5 licenses autophagy upon nutrient restriction. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2026.09.23.753803\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2026."
+    },
+    {
+     "type": "entry",
+     "when": "2.",
+     "html": "Prabhakar A, <strong>Mair WB.</strong> Regulation of the Rheb GTPase via GATOR1 complex. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2025.12.20.695697\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
+    },
+    {
+     "type": "entry",
+     "when": "3.",
+     "html": "Valera-Alberni M, Lanjuin A, Romero-Sanz S, Burkewitz K, Hughes AL, <strong>Mair WB.</strong> Nutrient-responsive formation of mitochondrial-derived structures in Caenorhabditis elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2025.06.24.661357\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
+    },
+    {
+     "type": "entry",
+     "when": "4.",
+     "html": "Silva-García CG, <strong>Mair WB.</strong> Confirming the pro-longevity effects of H3K4me3-deficient set-2 mutants in extending lifespan in C. elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2022.08.02.502497\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2022."
+    },
+    {
+     "type": "entry",
+     "when": "5.",
+     "html": "Escoubas CC, Laversenne V, Tabakovic E, Weir HJ, Clark N, <strong>Mair WB</strong>. AMPK modulates associative learning via neuronal mitochondrial fusion in <em>C. elegans</em>. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2020.11.05.370031\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2020."
+    },
+    {
+     "type": "sub",
+     "title": "Reviews and Book Chapters"
+    },
+    {
+     "type": "entry",
+     "when": "1.",
+     "html": "Smith H, Sharma A, <strong>Mair WB.</strong> Metabolic communication and healthy aging: where should we focus our energy? <em>Developmental Cell</em> 2020; 54:196-211. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32619405/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "2.",
+     "html": "Bhadra M, Howell P, Dutta S, Heintz C, <strong>Mair WB.</strong> Alternative splicing in aging and longevity. <em>Human Genetics</em> 2020; 139:357-369. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/31834493/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "3.",
+     "html": "Sharma A, Smith HJ, Yao P, <strong>Mair WB.</strong> Causal roles of mitochondrial dynamics in longevity and healthy aging. <em>EMBO Reports</em> 2019; 20:e48395. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/31667999/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "4.",
+     "html": "Escoubas CC, Silva-García CG, <strong>Mair WB.</strong> Deregulation of CRTCs in aging and age-related disease risk. <em>Trends in Genetics</em> 2017; 33:303-321. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/28365140/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "5.",
+     "html": "Weir HJ, <strong>Mair WB.</strong> SnapShot: Neuronal regulation of aging. <em>Cell</em> 2016; 166:784. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/27471972/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "6.",
+     "html": "Zhang Y, <strong>Mair WB.</strong> Dietary restriction in C. elegans. In: <em>C. elegans as a Model System for Aging Research</em>. Springer, 2016."
+    },
+    {
+     "type": "entry",
+     "when": "7.",
+     "html": "Burkewitz K, Weir HJ, <strong>Mair WB.</strong> AMPK as a pro-longevity target. In: <em>AMPK</em>. Springer, 2016. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/27812983/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "8.",
+     "html": "Burkewitz K, Zhang Y, <strong>Mair WB.</strong> AMPK at the nexus of energetics and aging. <em>Cell Metabolism</em> 2014; 20:10-25. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/24726383/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "9.",
+     "html": "Heintz C, <strong>Mair W.</strong> You are what you host: microbiome regulation of the aging process. <em>Cell</em> 2014; 156:408-411. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/24485451/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "10.",
+     "html": "<strong>Mair W</strong>, Dillin A. Aging and survival: the genetics of life span extension by dietary restriction. <em>Annual Review of Biochemistry</em> 2008; 77:727-754. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/18373439/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "11.",
+     "html": "Piper MDW, <strong>Mair W</strong>, Partridge L. Counting the calories: the role of specific nutrients in extension of life span by food restriction. <em>J Gerontol A</em> 2005; 60:549-555. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/15972601/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "12.",
+     "html": "Partridge L, Piper MDW, <strong>Mair W.</strong> Dietary restriction in Drosophila. <em>Mech Ageing Dev</em> 2005; 126:938-950. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/15935441/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "13.",
+     "html": "Partridge L, Pletcher SD, <strong>Mair W.</strong> Dietary restriction, mortality trajectories, risk and damage. <em>Mech Ageing Dev</em> 2005; 126:35-41. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/15610760/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "sub",
+     "title": "Commentaries, Editorials and Synopses"
+    },
+    {
+     "type": "entry",
+     "when": "1.",
+     "html": "<strong>Mair WB</strong>, Alvarez-Garcia I. Do you want to live forever? Lessons learned from the biology of aging. <em>PLoS Biology</em> 2026; 24:e3003835. (Guest Academic Editor of the <em>PLOS Biology</em> Aging Collection: commissioned and selected the contributing authors, and wrote the introductory editorial.) <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/42213714/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "2.",
+     "html": "Valera-Alberni M, <strong>Mair WB.</strong> Fast fragmenting mitochondria by TORC2. <em>Nature Cell Biology</em> 2023; 25:926-927. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/37386152/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "3.",
+     "html": "Nwanaji-Enwerem JC, <strong>Mair WB.</strong> Redefining age-based screening and diagnostic guidelines: an opportunity for biological aging clocks in clinical medicine? <em>The Lancet Healthy Longevity</em> 2022; 3:e376-e377. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/36034882/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "4.",
+     "html": "Perez-Matos MC, <strong>Mair WB.</strong> Predicting longevity responses to dietary restriction: a stepping stone toward precision geroscience. <em>PLoS Genetics</em> 2020; 16:e1008833. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32644994/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "5.",
+     "html": "<strong>Mair WB.</strong> Remote but not isolated. <em>Translational Medicine of Aging</em> 2020; 4:86-87. (On founding the Aging Science Talks online community during COVID-19.) <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32835153/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "6.",
+     "html": "Bäckhed F, Bugianesi E, Christofk H, Dikic I, Gupta R, <strong>Mair WB</strong>, O'Neill LAJ, Ralser M, Sabatini DM, Tschöp MH. The next decade of metabolism. <em>Nature Metabolism</em> 2019; 1:2-4. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/32694817/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "7.",
+     "html": "<strong>Mair W.</strong> Tipping the energy balance toward longevity. <em>Cell Metabolism</em> 2013; 17:5-6. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/23312278/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "8.",
+     "html": "<strong>Mair W</strong>, Steffen K, Dillin A. SIP-ing the elixir of youth. <em>Cell</em> 2011; 146:859-860. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/21925309/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    },
+    {
+     "type": "entry",
+     "when": "9.",
+     "html": "<strong>Mair W.</strong> Six paper synopses for <em>PLoS Biology</em> (2008-2011): Change for the better; \"Induced\" eyes suggest a path to retinal repair; Reinforcing reinforcement; How normal cells can win the battle for survival against cancer cells; Doubling the dose; A new view of embryogenesis; connective fibers join the dance."
+    },
+    {
+     "type": "entry",
+     "when": "10.",
+     "html": "Piper M, <strong>Mair W</strong>, Partridge L. Comment on Min et al., \"Counting calories in Drosophila dietary restriction\". <em>Experimental Gerontology</em> 2007; 42:253-255. <a class=\"cv-pill\" href=\"https://pubmed.ncbi.nlm.nih.gov/17317064/\" target=\"_blank\" rel=\"noopener\">PubMed</a>"
+    }
+   ]
+  },
+  {
+   "title": "Research resources and tools shared with the community",
+   "id": "research-resources-and-tools-shared-with-the-community",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2019-",
+     "html": "<strong>SKI LODGE</strong>; single-copy knock-in loci for defined gene expression in <em>C. elegans</em> (Silva-García et al., <em>G3</em> 2019): CRISPR safe-harbor system for tissue-specific single-copy transgenes, used with auxin-inducible degradation for acute, reversible, cell-type-specific protein depletion. <strong>Strains deposited with the Caenorhabditis Genetics Center</strong> (lab code WBM) and shared directly with laboratories worldwide; pSKI vectors on Addgene."
+    },
+    {
+     "type": "entry",
+     "when": "2023-",
+     "html": "<strong>SKI TRIP</strong>; single-copy knock-in translating ribosome immunoprecipitation toolkit for tissue-specific profiling of actively translated mRNAs (Wester et al., <em>Cell Reports Methods</em> 2023); strains at the CGC, datasets on Mendeley Data and SRA (PRJNA801467)."
+    },
+    {
+     "type": "entry",
+     "when": "2023-",
+     "html": "<strong>Auxin-degron alleles of the mTORC1 pathway</strong> (RAGA-1, LET-363/mTOR, Raptor, Rictor, S6K) for spatiotemporal control of nutrient signaling (Smith et al., <em>PLoS Genetics</em> 2023)."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Mitochondrial morphology imaging toolkit</strong>; endogenous CRISPR-tagged and ectopic reporters benchmarked against conventional markers (Valera-Alberni et al., <em>Life Science Alliance</em> 2024)."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "<strong>Mito-NAD(P)H age clocks</strong>; label-free, non-destructive FLIM-based predictor of biological age and remaining lifespan at subcellular resolution (Morrow et al., <em>Communications Biology</em> 2024)."
+    }
+   ]
+  },
+  {
+   "title": "Invited talks",
+   "id": "invited-talks",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Keynotes, Named Lectures and Featured Symposium Talks"
+    },
+    {
+     "type": "entry",
+     "when": "2028",
+     "html": "Joint Meeting of <em>C. elegans</em> Metabolism, Aging, Pathogenesis, Stress and Small RNAs (MAPSS) and <em>C. elegans</em> Development, Cell Biology and Gene Expression (DevCell), Madison, WI; <strong>Keynote Speaker</strong> (scheduled, Jun 21-25)."
+    },
+    {
+     "type": "entry",
+     "when": "2027",
+     "html": "Academy of Geroscience Annual Conference, Delray Beach, FL; panel moderator, <em>From Models to Mechanisms: Decoding the Biology of Aging</em> (scheduled, Jan 24-27)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Pennington Biomedical Research Center Winter Scientific Symposium <em>Aging Effects on Substrate Utilization</em>, Baton Rouge, LA; invited symposium talk, \"Metabolic Flexibility and Healthy Aging\" (scheduled, Nov 30)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Harvard Chan Healthy Aging Symposium <em>From Cells to Society: The Science of Extending Healthspan</em> (with Danone Institute North America), Joseph B. Martin Conference Center, Boston; host and speaker, \"Metabolic Flexibility and Healthy Aging\" (Oct 9)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "ASBMB Annual Meeting, National Harbor, MD; invited speaker, symposium <em>Metabolism of Aging</em> (Mar 8)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "University of Miami Miller School of Medicine; <strong>Dean's Special Lecture</strong>, \"Metabolic Flexibility and Healthy Aging\" (Mar 18)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Gerontological Society of America Annual Scientific Meeting, Boston; symposium talk, \"Metabolic Resilience and Healthy Aging\" (Nov 15)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "UCL Institute of Healthy Ageing 20th Anniversary Symposium, London; <strong>Keynote</strong>, \"Metabolic Flexibility and Healthy Aging\" (Jun 17)."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "Max Planck Institute for Biology of Ageing, Cologne; invited speaker, symposium honoring Linda Partridge, \"Metabolic Flexibility and Healthy Aging\" (Sep 14)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "MitOX, University of Oxford; <strong>Pollard Lecture</strong>, \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (Apr 8)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "AFAR Annual Scientific Symposium; featured speaker (2017 BIG Award), \"From Longevity Interventions to Precision Geroscience\" (Oct 5)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "MeDiC Program, Research Institute of the McGill University Health Centre, Montreal; <strong>Keynote</strong>, \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (Nov 19)."
+    },
+    {
+     "type": "sub",
+     "title": "Conference and Symposium Presentations"
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Fusion Membrane Contact Sites Conference, Cancún, Mexico (Nov 3-7, scheduled)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "13th Aging Research and Drug Discovery (ARDD) Meeting, Harvard University; panelist, “Aging Research in Pharma” (moderator S. D. Narasimhan, Cell Press) (Oct)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Tenth Northeast Glenn Symposium on the Biology of Aging, Yale University, West Haven, CT (Oct 16)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Inaugural <em>Aging Reframed: Bridging Disciplines for Healthy Aging</em> interdisciplinary seminar, Harvard T.H. Chan School of Public Health; speaker/convener (May 6)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Fusion 5th Interventions in Aging Conference, Malta; co-chair and speaker (Oct 4-7)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Metabolism, Aging, Pathogenesis, Stress and Small RNAs in C. elegans (MAPS) Meeting, Madison, WI; invited speaker (Jun 20-24)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Fusion Membrane Contact Sites Conference, Cancún, Mexico; invited speaker (Feb 8-11)."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "NIA Workshop on RNA Metabolism in Aging; invited speaker, \"From Longevity Interventions to Precision Geroscience\" (Jul 26)."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "Glenn Foundation Symposium on Aging Research, Harvard Medical School, Boston; invited speaker, \"Metabolic Flexibility and Healthy Aging\" (May 22)."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "My Age Group Meeting, London, UK."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "MAPS C. elegans Meeting, Madison, WI; invited speaker (Jul 14-18)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "Fusion 2nd Metabolism in Health and Disease Conference, Cancún, Mexico; invited speaker, \"From Longevity Interventions to Precision Geroscience\" (May 13)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "CNIO Frontiers Meeting, Madrid, Spain; invited speaker, \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (May 9)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "UCSF Bakar Aging Research Institute Symposium, San Francisco; invited speaker, \"Metabolic Flexibility and Healthy Aging\" (Jan 20)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Cold Spring Harbor Laboratory Mechanisms of Aging Conference; session chair and speaker, \"Metabolic Flexibility, Homeodynamics and Healthy Aging\" (Sep)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Keystone Symposium: Mechanisms of Aging, Vancouver, Canada; invited speaker, \"Metabolic Communication and Longevity\" (Feb)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Aging Science Talks (online series); \"From Longevity Interventions to Precision Geroscience\" (May 5)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Max Planck Institute for Biology of Ageing Symposium, Cologne; \"RNA Splicing and Longevity Interventions\" (Nov)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Nature Metabolism Conference: Advances in Metabolic Communication, Rio de Janeiro, Brazil; \"RNA Splicing and Longevity Interventions\" (Oct)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Fusion Interventions in Aging Conference, Nassau, Bahamas; \"Novel Molecular Mechanisms Linking RNA Splicing and Longevity\" (Mar)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Fusion Mitochondria Conference, Nassau, Bahamas; \"Remodeling of Mitochondrial Networks in Pro-Longevity Interventions\" (Mar)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "My Age Group Meeting, Birmingham, AL."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Cold Spring Harbor Laboratory Nutrient Signaling Meeting; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Sep)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "11th International AMPK Meeting, Niagara-on-the-Lake, Canada; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Sep)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Frontiers in Mitochondrial Biology, Harvard Medical School, Boston (Sep)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Keystone Symposium: Pushing the Limits of Healthspan and Longevity, Hannover, Germany; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (May)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "My Age Group Inaugural Meeting, Austin, TX; founder and chair, \"Known Unknowns\" (Feb)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Gordon Research Conference on the Biology of Aging, Les Diablerets, Switzerland; \"Contextual Roles for Mitochondrial Network States in Longevity\" (Jul)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Marabou Symposium on Nutrition and Human Evolution, Stockholm, Sweden."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Understanding Mechanisms and the Promise of Extending Human Healthspan, Cancún, Mexico; \"Mechanisms Linking Energetics and Longevity\" (Mar)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Keystone Symposium: Mitochondrial Communication, Taos, NM (Jan)."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "Cold Spring Harbor Laboratory Mechanisms of Aging Conference; session chair and speaker."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "Cold Spring Harbor Laboratory PTEN Meeting."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "NIA Workshop on Mitochondrial Dynamics, Mitophagy and Aging, Bethesda, MD."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "C. elegans Aging, Metabolism, Pathogenesis, Stress and Small RNAs Meeting, Madison, WI; co-organizer and speaker."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "4th Biennial International Symposium on Age-related Macular Degeneration."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "MDI Biological Laboratory: Comparative and Experimental Approaches to Aging Biology Research, Bar Harbor, ME."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "Glenn Foundation Symposium, Harvard Medical School, Boston."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Cold Spring Harbor Asia: Molecular Basis of Aging and Disease, Suzhou, China; invited speaker and session chair."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Fondation des Treilles workshop: The Role of Metabolism in Aging and Age-related Disease, France."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Frontiers in Interventions in Aging Conference, Cancún, Mexico."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Annual Symposium of the Jersey Medical Society, Jersey, Channel Islands."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Harvard T.H. Chan School of Public Health Leadership Council Summit."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Keystone Symposium on Aging, Steamboat Springs, CO; invited speaker."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Annual Helmholtz-Nature Medicine Diabetes Conference, Berlin, Germany."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Cold Spring Harbor Laboratory PTEN Meeting."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "C. elegans Aging, Metabolism, Pathogenesis, Stress and Small RNAs Meeting, Madison, WI."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "NIA New Investigators Forum, Bethesda, MD; NIA Frontiers in Aging and Regeneration Research Course, Atlanta, GA."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Hiroshima Research Center for Healthy Aging (HiHA) Symposium, Japan."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "Gordon Research Conference on Aging, Italy; invited talk."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "Cold Spring Harbor Asia Genetics of Aging Conference, China."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "International C. elegans Meeting, UCLA; chair, Metabolism and Physiology session."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "Gerontological Society of America Annual Meeting, New Orleans, LA."
+    },
+    {
+     "type": "entry",
+     "when": "2012",
+     "html": "Keystone Symposium on Aging, Tokyo, Japan; Cold Spring Harbor Laboratory Molecular Genetics of Aging Meeting; FinBioNet Meeting \"Revolutionary Bioscience\", Tampere, Finland."
+    },
+    {
+     "type": "entry",
+     "when": "2012",
+     "html": "C. elegans Aging, Metabolism, Pathogenesis, Stress and Small RNAs Meeting; session chair and poster judge; HMS Genetics Retreat panel \"Aging; Truth and Controversy\"."
+    },
+    {
+     "type": "entry",
+     "when": "2010-2011",
+     "html": "Keystone Symposium: New Insights into Healthspan and Diseases of Aging, Lake Tahoe; CSHL PTEN and Molecular Genetics of Aging meetings; Glenn Center symposium, San Diego; 18th International C. elegans Meeting (metabolism workshop), UCLA."
+    },
+    {
+     "type": "entry",
+     "when": "2004",
+     "html": "Cold Spring Harbor Laboratory Molecular Genetics of Aging Meeting."
+    },
+    {
+     "type": "sub",
+     "title": "Invited Seminars"
+    },
+    {
+     "type": "entry",
+     "when": "2027",
+     "html": "Joslin Diabetes Center / Longwood Area Diabetes &amp; Metabolism Seminar Series, Boston (Jan 21, scheduled)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "University of California Los Angeles, Molecular Biology Institute Seminar Series; \"Metabolic Flexibility and Healthy Aging\" (Apr 16)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Babraham Institute, Cambridge, UK."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "University of Michigan Aging Research Seminar Series, Ann Arbor, MI."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Boston Pepper Center (Older Americans Independence Center) Seminar, Boston (Jan 14)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Department of Environmental Health / NIEHS Center Seminar, Harvard T.H. Chan School of Public Health; \"Metabolic Flexibility and Healthy Aging\" (Nov 12)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Channing Division of Network Medicine Seminar, Brigham and Women's Hospital, Boston (Nov)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Columbia University Institute of Human Nutrition Seminar Series, New York; \"Metabolic Flexibility and Healthy Aging\" (Jan 21)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "UMass Chan Medical School Seminar, Worcester, MA (Jan)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Harvard Department of Stem Cell and Regenerative Biology Seminar Series, Cambridge; \"Metabolic Flexibility and Healthy Aging\" (Sep)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Columbia University Irving Medical Center Seminar (host: Y. Suh), New York (Sep 4)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Boston University School of Medicine, Genome Science Institute Seminar; \"Metabolic Flexibility and Healthy Aging\" (Apr)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "MIT / Whitehead Institute Partnership for Science Education; \"Is Aging Inevitable?\" (Mar)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Yale University Biology of Aging Seminar Series, New Haven; \"Metabolic Flexibility and Healthy Aging\" (Feb)."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "UMass Chan Medical School, Metabolic Network Seminar Day (host: D. Guertin); \"Metabolic Flexibility and Healthy Aging\" (Mar 16)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "Dana-Farber Cancer Institute Seminar, Boston; \"Metabolic Flexibility, Homeodynamics and Healthy Aging\"."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "Beth Israel Deaconess Medical Center Seminar, Boston; \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (Apr 5)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "Medical College of Georgia at Augusta University, Neuroscience Seminar Series; \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (Jan 31)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "Ohio State University, Davis Heart and Lung Research Institute Seminar Series; \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (Jan 21)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "MitoTalks Online Seminar Series; \"Metabolic Flexibility, Mitochondrial Dynamics and Healthy Aging\" (May 27)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "Harvard Metabolism Faculty Chalk Talk Series; \"Metabolic Flexibility, Homeodynamics and Healthy Aging\" (Apr 28)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "Princeton University Aging Seminar; \"From Longevity Interventions to Precision Geroscience\" (Mar 19)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Institut Pasteur, Department of Cell Biology and Infection Seminar Series, Paris; \"Metabolic Flexibility, Homeodynamics and Healthy Aging\" (Oct, remote)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Brown University, MCB Seminar Series, Providence; \"RNA Splicing and Longevity Interventions\" (Feb)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Massachusetts General Hospital Endocrine Grand Rounds, Boston; \"The Molecular Mechanisms of Dietary Restriction\" (Jan 14)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Sanford Burnham Prebys Medical Discovery Institute, Aging and Regeneration Program Seminar, La Jolla; \"The Molecular Underpinnings of Lifespan Extension by Dietary Restriction\" (Mar 27)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "Harvard Medical School Mitochondria Seminar; \"RNA Splicing and Longevity Interventions\" (Jul 10)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Washington University School of Medicine, Developmental Biology Seminar Series, St. Louis; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Dec)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "University of Washington Nathan Shock Center for Aging Research Seminar, Seattle; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Feb 1 &amp; Dec 3)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Harvard Department of Stem Cell and Regenerative Biology Seminar; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Apr 13)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "University of Wisconsin-Madison Institute on Aging Seminar Series; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Jan 24)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "Harvard Longwood Area Worm Meeting; \"AMPK and mTORC1: Shared or Separable Longevity Modifiers?\" (Dec 14)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Joslin Diabetes Center Seminar Series, Boston; \"AMPK and mTOR: Determinants of Metabolic Health and Longevity\" (Nov 30)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "AbbVie Center for Alzheimer's Research, Cambridge, MA (Feb 22)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Buck Institute for Research on Aging, Novato, CA; \"Neuronal Regulators and Downstream Effectors of Dietary Restriction-Mediated Longevity\" (Feb 10)."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "Albert Einstein College of Medicine, New York; Barshop Institute, UT Health San Antonio; Stanford University Frontiers in Aging Seminar Series; Northeastern University Aging Seminar Series; MDI Biological Laboratory Seminar Series; Harvard Molecular Integrated Physiology Seminar; Glenn Center for Aging Biology Symposium; Mass Eye and Ear (Aging and Macular Degeneration)."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "Baylor College of Medicine Aging Seminar Series, Houston; Institute of Neurobiology, UNAM, Querétaro, Mexico; Molecular and Computational Biology Section, USC, Los Angeles."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Max Planck Institute for Biology of Ageing, Cologne; Beth Israel Deaconess Medical Center Endocrine Grand Rounds; Tufts Sackler School Integrated Studies Program Seminar."
+    },
+    {
+     "type": "entry",
+     "when": "2013",
+     "html": "Brown University Biology of Aging Seminar Series; University of Tampere Mitochondria Research Center, Finland."
+    },
+    {
+     "type": "entry",
+     "when": "2012",
+     "html": "Boston Aging Data Club, Harvard Medical School; Harvard Chan Department of Nutrition Seminar Series."
+    },
+    {
+     "type": "sub",
+     "title": "Public, Policy and Executive Engagement"
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Harvard Chan India Research Center</strong>; panelist, webinar series <em>The Impact of Diets on Non-Communicable Diseases: Evidence and the Next Steps</em>: \"Healthy Ageing: Nutrition, Metabolism, and Life Course Pathways to Longer Healthspan\" (Oct 13, online)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Massachusetts State House</strong>; Statehouse Aging Roundtable with Rep. Stanley, Sen. Jehlen and Sen. DiDomenico: briefing on the biology of aging (Sep 17)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Health Coverage Fellowship</strong> (Harvard Chan / Larry Tye), Babson College; dinner panel for health journalists, <em>Living Longer (and Better): Hype vs. Hope in Aging Research</em> (Sep 15)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Harvard Advanced Leadership Initiative (ALI)</strong>; designed and led the two-day <em>Longevity and Healthy Aging Deep Dive</em>, Harvard Business School (Apr 9-10); invited speaker, ALI Aging &amp; Longevity Impact Group (Mar 19)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Thornden School careers week, Hampshire, UK; outreach talk on careers in science (Mar 5, remote)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<strong>Massachusetts State House</strong>; Briefing on Aging Biology for the Joint Committee on Aging and Independence: opening talk, <em>Introduction to Aging Biology</em>, and expert panel (Nov 20)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Harvard Chan Department of Health Policy and Management Executive Council; invited talk on the biology of aging and the Healthy Aging Initiative (Nov)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Harvard College Aging Initiative (student organization), Harvard Hall; invited talk (Sep 16)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Harvard Chan donor and alumni program, Nantucket, MA; <em>Solving the Puzzle of Healthy Aging</em> (with L. Kubzansky) (Jul 22)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<strong>Harvard Advanced Leadership Initiative</strong>; <em>Longevity and Healthy Aging Deep Dive</em> (May 15)."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "<strong>AFAR Congressional advocacy</strong>; sole Massachusetts academic representative in AFAR's meetings with the offices of Senator Edward Markey and Representative Katherine Clark to increase federal investment in geroscience."
+    },
+    {
+     "type": "entry",
+     "when": "2023",
+     "html": "Harvard Institute for Learning in Retirement; public lecture, \"Is Aging Inevitable?\" (Oct 27)."
+    },
+    {
+     "type": "entry",
+     "when": "2023-25",
+     "html": "Frontiers in Alzheimer's and Aging Research (FrA2RE) NIA summer course, New Orleans; faculty lecturer, \"Is Aging Inevitable?\" / \"Life Lessons from a Worm\" (also 2018)."
+    },
+    {
+     "type": "entry",
+     "when": "2021",
+     "html": "Harvard, Princeton and Yale Alumni Club of Naples; webinar, \"Is Aging Inevitable?\" (Mar)."
+    },
+    {
+     "type": "entry",
+     "when": "2020",
+     "html": "Meet-the-Scientists Panel, Boston Public Library."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Harvard Chan Alumni Weekend; <em>Reimagining Our Future: Public Health Perspectives on Aging and Longevity</em>, \"The Longevity Dividend: Is Declining Health in Old Age Inevitable?\" (Oct 14)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "Harvard Journalists' Program; \"Is Aging a Risk Factor We Can Reduce?\" (May 15)."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "Boston HUBweek Aging Research Panel."
+    },
+    {
+     "type": "entry",
+     "when": "2014",
+     "html": "Harvard Chan Forum expert panel, <em>Living Longer and Happier Lives</em>."
+    }
+   ]
+  },
+  {
+   "title": "Meetings and courses organized",
+   "id": "meetings-and-courses-organized",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "2027",
+     "html": "<strong>Co-chair</strong> (with L. Partridge and H. Jasper), Fusion 6th Interventions in Aging Conference, Durrës, Albania (May 16-19)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Host and organizer</strong> (with L. Kubzansky and C. Peterson), inaugural Harvard Chan Healthy Aging Symposium <em>From Cells to Society: The Science of Extending Healthspan</em>, Boston (Oct 9; ~200 attendees; keynote D. Promislow)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Organizer</strong> (with R. Anderson and A. Webb), Cold Spring Harbor Laboratory Mechanisms of Aging Meeting (Sep 22-26)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Convener</strong>, <em>Aging Reframed: Bridging Disciplines for Healthy Aging</em>; inaugural interdisciplinary aging seminar, Harvard T.H. Chan School of Public Health (May 6)."
+    },
+    {
+     "type": "entry",
+     "when": "2025-26",
+     "html": "<strong>Designer and lead faculty</strong>, Harvard Advanced Leadership Initiative <em>Longevity and Healthy Aging Deep Dive</em> (May 2025; Apr 2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<strong>Co-chair</strong> (with L. Partridge and H. Jasper), Fusion 5th Interventions in Aging Conference, Malta (Oct 4-7; 77 participants)."
+    },
+    {
+     "type": "entry",
+     "when": "2023, 2025",
+     "html": "<strong>Co-founding Director</strong>, MBL Biology of Aging Advanced Research Training Course, Woods Hole, MA (four weeks, 18 students per cohort)."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "<strong>Organizer</strong> (with S. Imai and M. Wang), Cold Spring Harbor Laboratory Mechanisms of Aging Meeting."
+    },
+    {
+     "type": "entry",
+     "when": "2022",
+     "html": "<strong>Organizer</strong> (with M. Wang), Cold Spring Harbor Laboratory Mechanisms of Aging Meeting (NIH R13 conference grant)."
+    },
+    {
+     "type": "entry",
+     "when": "2018-",
+     "html": "<strong>Founder and organizer</strong>, My Age Group annual peer-mentoring meetings (Austin 2018; Birmingham 2019; London 2023)."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "<strong>Co-organizer</strong>, Aging, Stress, Pathogenesis, Small RNAs and Metabolism; International C. elegans Topic Meeting, Madison, WI."
+    }
+   ]
+  },
+  {
+   "title": "Teaching",
+   "id": "teaching",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Course Director"
+    },
+    {
+     "type": "entry",
+     "when": "2020-2023; 2027-",
+     "html": "<strong>Course Director</strong>, MET 212 / BPH 310qc <em>Molecular Mechanisms of Aging</em>, Harvard T.H. Chan School of Public Health. Redesigned for Spring 2027 as a lecture-plus-paper-discussion seminar for HILS doctoral students with guest faculty from across Harvard."
+    },
+    {
+     "type": "entry",
+     "when": "2012-2018",
+     "html": "<strong>Course Co-Director</strong> (with J. Mitchell), BPH 310qc <em>Molecular Mechanisms of Aging</em>."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2023",
+     "html": "<strong>Instructor</strong>, BPH 205 / MET 250 <em>Advanced Topics in Molecular Metabolism</em>."
+    },
+    {
+     "type": "sub",
+     "title": "Invited Lectures and Course Faculty"
+    },
+    {
+     "type": "entry",
+     "when": "2017-",
+     "html": "SCRB 190 <em>Understanding Aging: Degeneration, Regeneration and the Scientific Search for the Fountain of Youth</em> (A. Wagers); lectures on evolutionary theories of aging and dietary restriction (next: Nov 16, 2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2017-",
+     "html": "NUT 202 <em>Biochemical Basis of Human Nutrition</em>; annual lecture on dietary restriction and longevity (most recently Apr 14, 2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2025",
+     "html": "BPH Summer Internship Program and G1 Faculty Talks; <em>Creating a Narrative: How to Give a Scientific Talk</em> (annual)."
+    },
+    {
+     "type": "entry",
+     "when": "2018",
+     "html": "BPH 301; instructor, Science Communication to Lay Audiences module."
+    },
+    {
+     "type": "entry",
+     "when": "2012-2017",
+     "html": "BPH 301 Biological Sciences Seminars; invited lecturer."
+    },
+    {
+     "type": "entry",
+     "when": "2023, 2025",
+     "html": "MBL Biology of Aging course; lectures on dietary restriction, metabolic flexibility and (in)equity in healthy aging."
+    },
+    {
+     "type": "entry",
+     "when": "2015-2020",
+     "html": "NIA Summer Course on Aging Biology for under-represented minority students (Atlanta, Woods Hole, New Orleans); faculty."
+    }
+   ]
+  },
+  {
+   "title": "Mentoring and training",
+   "id": "mentoring-and-training",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Postdoctoral Fellows"
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "Dr. Jamie Kraft (co-mentored with C. Peterson from 2026). Swedish Research Council Fellow."
+    },
+    {
+     "type": "entry",
+     "when": "2021-",
+     "html": "Dr. Aditi Prabhakar. Moore Foundation Fellow."
+    },
+    {
+     "type": "entry",
+     "when": "2021-",
+     "html": "Dr. Christopher Morrow. NIA F32 and K99/R00 awardee."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2025",
+     "html": "Dr. Miriam Valera-Alberni; now Junior Lecturer, University of Lausanne (UNIL), Switzerland."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2025",
+     "html": "Dr. Laura Wester (co-mentored with A. Antebi, MPI Cologne); now Postdoctoral Scientist, Max Planck Institute for Biology of Ageing."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2025",
+     "html": "Dr. Arpit Sharma; now <strong>Principal Investigator</strong>, Jean Mayer USDA Human Nutrition Research Center on Aging, Tufts University."
+    },
+    {
+     "type": "entry",
+     "when": "2019-2023",
+     "html": "Dr. Vanessa Laversenne; now Senior Research Scientist, Broad Institute."
+    },
+    {
+     "type": "entry",
+     "when": "2019-2020",
+     "html": "Dr. Malini Bhadra; now Global Support and Service Trainer, Thermo Fisher Scientific."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2020",
+     "html": "Dr. Porsha Howell; now Senior Scientist, MBX Biosciences."
+    },
+    {
+     "type": "entry",
+     "when": "2017-2018",
+     "html": "Dr. Suvagata Roy Chowdhury; now MRC Mitochondrial Biology Unit, University of Cambridge."
+    },
+    {
+     "type": "entry",
+     "when": "2016-2017",
+     "html": "Dr. Ryann Guayasamin; now Lecturer, University of Vermont."
+    },
+    {
+     "type": "entry",
+     "when": "2015-2023",
+     "html": "Dr. Carlos Silva-García; now <strong>Assistant Professor (tenure-track)</strong>, Brown University."
+    },
+    {
+     "type": "entry",
+     "when": "2014-2017",
+     "html": "Dr. Heather Weir; now Associate Director, Astex Pharmaceuticals."
+    },
+    {
+     "type": "entry",
+     "when": "2013-2022",
+     "html": "Dr. Caroline Heintz (latterly Research Associate / Lab Manager); now Head of Laboratory, MGZ Medical Genetics Center, Munich."
+    },
+    {
+     "type": "entry",
+     "when": "2012-2018",
+     "html": "Dr. Kristopher Burkewitz; now <strong>Assistant Professor</strong> of Cell and Developmental Biology, Vanderbilt University."
+    },
+    {
+     "type": "sub",
+     "title": "Doctoral Students (Harvard, unless noted)"
+    },
+    {
+     "type": "entry",
+     "when": "2019-2025",
+     "html": "Maria Perez Matos, Ph.D. (BPH). NIA F31 awardee."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2024",
+     "html": "Hannah Smith, Ph.D. (BPH). NIA F31 awardee."
+    },
+    {
+     "type": "entry",
+     "when": "2022-2023",
+     "html": "Ewelina Nowak (Molecules, Cells and Organisms, Harvard FAS); now Ph.D. student, Lee Lab, Harvard University."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2023",
+     "html": "Samuel Lapp (BPH); now Postdoctoral Fellow, Salk Institute for Biological Studies."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2023",
+     "html": "Noel Jackson (BBS, Harvard Medical School). NSF Graduate Research Fellow; now Ph.D. candidate, Miller Lab, Brigham and Women's Hospital and Harvard Medical School."
+    },
+    {
+     "type": "entry",
+     "when": "2017-2022",
+     "html": "Pallas Yao, Ph.D. (BPH). NIA F31 awardee; continued in the lab as a postdoctoral researcher; now Domain Researcher and Scientific Writer, Avandar Labs."
+    },
+    {
+     "type": "entry",
+     "when": "2016-2021",
+     "html": "Sneha Dutta, Ph.D. (BPH); now Manager, Putnam."
+    },
+    {
+     "type": "entry",
+     "when": "2014-2018",
+     "html": "Caroline Escoubas, Ph.D. (University of Nice, France); now <strong>Assistant Member</strong>, Center of Excellence in Neuro-Oncology Sciences, St. Jude Children's Research Hospital (2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2012-2018",
+     "html": "Yue Zhang, Ph.D. (BPH); now Senior Director, Competitive Intelligence (Oncology R&amp;D), AstraZeneca."
+    },
+    {
+     "type": "para",
+     "html": "<strong>Doctoral rotation students.  </strong>Catherine Baranowski (2012), Yue Zhang (2012), Joseph Beyene (2014), Jim Valcourt (Systems Biology, HMS, 2014), Ibrahim Kurt (2015), Zhouwei Zhang (2016), Sneha Dutta (2016), Anita Reddy (BBS, 2017), Pallas Yao (2017), Alexander Plesa (BBS, 2018), Hannah Smith (2018), Pallavi Joshi (BBS, 2019), Maria Perez Matos (2019), Christopher Petty (BBS, 2020), Luke Murphy (BBS, 2020), Noel Jackson (BBS, 2020), Samuel Lapp (2021), Ewelina Nowak (MCO, 2022), Nancy Pohl (2022)."
+    },
+    {
+     "type": "para",
+     "html": "<strong>Postbaccalaureate researchers.  </strong>Lourdes Pajuelo (2022; now Ph.D. student, Weill Cornell), Ana Gallegos Cruz (2024; now Master's student, École Normale Supérieure, Paris)."
+    },
+    {
+     "type": "para",
+     "html": "<strong>Undergraduate researchers.  </strong>Elissa Lin (Harvard, 2013; now Clinical Researcher, Brigham and Women's Hospital), Ana Paula Morales Allende (Barnard, 2013; now Vascular Surgeon, Conway Medical Center), Jeeyun Kim (UC Berkeley, 2014; now Senior Clinical Scientist, Abbott), Staci Thornton (UConn, 2015; now Research Specialist, HHMI), Raymond Laboy Morales (UNAM, 2015; now Research Fellow, Joslin Diabetes Center), Kaitlyn Izzo (Northeastern, 2016; now Principal Scientist, Eli Lilly), Juan Ramirez (Brandeis, 2016; now Senior Data Scientist, Brightside), Emina Tabakovic (UMass, 2016), Sydney Brumfield (Wellesley, 2016; now Clinical Trial Project Manager, Candel Therapeutics), Nicole Clark (FrA2RE Scholar, 2016), Victoria Cottrell (Wellesley, 2021; now Ph.D. student, Harvard Medical School), Catherin DeSousa (2022; now Ph.D. student, UC Berkeley), Cailin Cronin (2024)."
+    },
+    {
+     "type": "para",
+     "html": "<strong>Visiting students.  </strong>Tinatini Tavhelidse (M.S., University of Heidelberg, 2012; now postdoctoral researcher, Heidelberg University), Caroline Escoubas (M.D./Ph.D., University of Nice, 2014), Chia-Lin (Iris) Lee (M.S., National Cheng Kung University, Taiwan, 2016), Dana Fleischhauer (M.S., University of Heidelberg, 2019; now Senior Consultant, Temedica)."
+    },
+    {
+     "type": "sub",
+     "title": "Research Staff"
+    },
+    {
+     "type": "entry",
+     "when": "2015-",
+     "html": "Dr. Anne Lanjuin, Senior Research Scientist."
+    },
+    {
+     "type": "entry",
+     "when": "2026-",
+     "html": "Emily Levesque and Younjoo (Kate) Roh, Research Assistants."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "Cailin Cronin, Research Assistant; now M.S. student in Pharmaceutical Engineering."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2025",
+     "html": "Peter Stine, Research Assistant; now Ph.D. student, New York University."
+    },
+    {
+     "type": "entry",
+     "when": "2011-2020",
+     "html": "Ianessa Morantte, Senior Scientist (2011-15; now Head of Therapeutics R&amp;D, Prolific Machines); Robin Yeo (2013; now Founder, Koerner-Yeo Biological Data Consulting), Nicole Clark (2016-18; now Family Medicine resident, The Ohio State University), Emina Tabakovic (2017-18; now Emina Gulbis, OB/GYN resident physician, Banner University Medical Center Phoenix), Rohan Sehgal (2018-19; now neurology resident physician, UF College of Medicine, Jacksonville), Peter Stine (2019-20), Andrew Larocque (2020; now Engineer, Portal Biotechnologies), Research Assistants."
+    },
+    {
+     "type": "sub",
+     "title": "Mentoring Programs, Outreach and Inclusion"
+    },
+    {
+     "type": "entry",
+     "when": "2021-",
+     "html": "<strong>Senior Mentor</strong>, Harvard Catalyst <em>Career Catalyst</em> Mentoring Program (2026-27 cohort active)."
+    },
+    {
+     "type": "entry",
+     "when": "2022-",
+     "html": "<strong>Faculty mentor</strong>, Frontiers in Alzheimer's and Aging Research (FrA2RE), NIA course for under-represented undergraduates."
+    },
+    {
+     "type": "entry",
+     "when": "2018-",
+     "html": "<strong>Founder</strong>, My Age Group peer-mentoring network for early- and mid-career aging-biology faculty (ten PIs, US and Europe, gender-balanced); annual retreats and continuous peer support; has generated multiple collaborations, shared grants and co-authored papers."
+    },
+    {
+     "type": "entry",
+     "when": "2026-27",
+     "html": "<strong>Faculty Advisor</strong>, Harvard Chan Student Aging Club (with L. Kubzansky and R. Palaza)."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2023",
+     "html": "Equity, Diversity, Inclusion and Belonging Facilitator; selected for the inaugural 18-member Harvard Chan facilitator cohort (two-year program)."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2023",
+     "html": "Director (2020) and steering committee (2021-23), BPH Summer Internship Program for under-represented minority students."
+    },
+    {
+     "type": "entry",
+     "when": "2020-",
+     "html": "Research Scholar Initiative <em>Meet the Professor</em>, Harvard GSAS; Mair Lab virtual lab tours for high-school students in under-served districts (2021-)."
+    },
+    {
+     "type": "entry",
+     "when": "Practice",
+     "html": "Lab runs on a written mentoring compact and lab manual, a pre-joining mentoring questionnaire, an annual anonymous lab-climate survey with results presented to the group, structured RADAR one-on-ones (Review, Agenda, Discussion, Action items, Reflect) and an annual State of the Lab address; 22 trainees have gone on to faculty, industry and postdoctoral positions."
+    },
+    {
+     "type": "entry",
+     "when": "2019-2021",
+     "html": "Training: CIMER Mentor Training for Biomedical Researchers (2019); IGEN Equity in Graduate Admissions Workshop (2020); Culturally Aware Mentoring, Harvard Advising Project (2021)."
+    }
+   ]
+  },
+  {
+   "title": "Professional service",
+   "id": "professional-service",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Editorial"
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "Founding Editorial Board, <em>Geromedicine</em>."
+    },
+    {
+     "type": "entry",
+     "when": "2024-",
+     "html": "Academic Editor, <em>PLOS Biology</em>."
+    },
+    {
+     "type": "entry",
+     "when": "2025-2026",
+     "html": "<strong>Guest Academic Editor</strong>, <em>PLOS Biology</em> special collection <em>Lessons Learned from the Biology of Aging</em>; curated the collection, selected and invited the contributing authors, and authored the introductory editorial (2026)."
+    },
+    {
+     "type": "entry",
+     "when": "2011-2020",
+     "html": "Review Editor, <em>Frontiers in Genetics of Aging</em>."
+    },
+    {
+     "type": "entry",
+     "when": "Past",
+     "html": "Editorial boards: <em>Nutrition and Healthy Aging</em>; <em>npj Aging and Mechanisms of Disease</em>; <em>iScience</em> (Cell Press; resigned 2023)."
+    },
+    {
+     "type": "entry",
+     "when": "Ad hoc reviewer",
+     "html": "<em>Nature</em>, <em>Science</em>, <em>Cell</em>, <em>Nature Aging</em>, <em>Nature Cell Biology</em>, <em>Nature Medicine</em>, <em>Nature Metabolism</em>, <em>Nature Communications</em>, <em>Cell Metabolism</em>, <em>Molecular Cell</em>, <em>Cell Reports</em>, <em>Science Advances</em>, <em>Science Translational Medicine</em>, <em>PNAS</em>, <em>eLife</em>, <em>PLOS Biology</em>, <em>PLOS Genetics</em>, <em>Current Biology</em>, <em>Development</em>, <em>Aging Cell</em>, <em>Ageing Research Reviews</em>, <em>Diabetes</em>, <em>Journal of Cell Science</em> and others (2006-)."
+    },
+    {
+     "type": "sub",
+     "title": "Grant Review"
+    },
+    {
+     "type": "entry",
+     "when": "2020-2024",
+     "html": "<strong>Permanent Member</strong>, NIH Cellular Mechanisms of Aging and Development (CMAD) Study Section; ad hoc member 2014, 2016, 2018."
+    },
+    {
+     "type": "entry",
+     "when": "2020-",
+     "html": "AFAR National Scientific Advisory Council; AFAR / Glenn Foundation Breakthroughs in Gerontology (BIG) Award selection committee."
+    },
+    {
+     "type": "entry",
+     "when": "2017-",
+     "html": "American Federation for Aging Research; grant reviewer."
+    },
+    {
+     "type": "entry",
+     "when": "2014-",
+     "html": "National Science Foundation; ad hoc reviewer."
+    },
+    {
+     "type": "entry",
+     "when": "2013-",
+     "html": "Alzheimer's Association; grant reviewer."
+    },
+    {
+     "type": "entry",
+     "when": "International",
+     "html": "Biotechnology and Biological Sciences Research Council (UK); Human Frontier Science Program; Else Kröner-Fresenius-Stiftung (EKFS); Research Grants Council CERG (Hong Kong/China); ad hoc."
+    },
+    {
+     "type": "entry",
+     "when": "Local",
+     "html": "Harvard Chan Postdoctoral Association travel grants; HHMI Gilliam Fellowship faculty review committee (2020)."
+    },
+    {
+     "type": "sub",
+     "title": "External Reviewer: Promotion, Tenure and Appointment"
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "External reviewer for seven tenure, promotion and senior appointment cases: Columbia Mailman School of Public Health; Stanford University School of Medicine; USC Keck School of Medicine; USC Leonard Davis School of Gerontology; Technion - Israel Institute of Technology; University of Utah; Augusta University. Candidates are not named, to preserve the confidentiality of the review process."
+    },
+    {
+     "type": "sub",
+     "title": "Professional Societies"
+    },
+    {
+     "type": "entry",
+     "when": "2025-",
+     "html": "Academy of Geroscience (elected member)."
+    },
+    {
+     "type": "entry",
+     "when": "2013-",
+     "html": "Genetics Society of America; Gerontological Society of America."
+    },
+    {
+     "type": "entry",
+     "when": "2011-",
+     "html": "American Aging Association."
+    },
+    {
+     "type": "entry",
+     "when": "2008-2011",
+     "html": "National Association of Science Writers."
+    }
+   ]
+  },
+  {
+   "title": "University service",
+   "id": "university-service",
+   "blocks": [
+    {
+     "type": "sub",
+     "title": "Committees"
+    },
+    {
+     "type": "entry",
+     "when": "2026-2029",
+     "html": "<strong>Member</strong>, Harvard Chan School Committee on Appointments, Reappointments and Promotions (SCARP); Department of Molecular Metabolism representative."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "Harvard University Committee on Rights and Responsibilities (UCRR)."
+    },
+    {
+     "type": "entry",
+     "when": "2024-2025",
+     "html": "Faculty Search Committee (Assistant Professor), Department of Molecular Metabolism."
+    },
+    {
+     "type": "entry",
+     "when": "2022-2024",
+     "html": "Harvard Chan Postdoctoral Advisory Committee."
+    },
+    {
+     "type": "entry",
+     "when": "2021-2024",
+     "html": "Harvard Chan Committee for the Advancement of Women Faculty."
+    },
+    {
+     "type": "entry",
+     "when": "2020-",
+     "html": "PQE Steering Committee, Biological Sciences in Public Health (BPH) Ph.D. Program."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2024",
+     "html": "Founding member, MET Committee on Diversity, Equity and Inclusion."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2023",
+     "html": "Faculty Chair, MET Seminar Series and MET-a-Data Club."
+    },
+    {
+     "type": "entry",
+     "when": "2018-2021",
+     "html": "Committee on Educational Policy; Yerby Postdoctoral Fellowship Advisory Board and Admissions Committee (2018-20)."
+    },
+    {
+     "type": "entry",
+     "when": "2017-",
+     "html": "Facilitation of Interdisciplinary Research Task Force."
+    },
+    {
+     "type": "entry",
+     "when": "2015-2017",
+     "html": "Faculty Council, Harvard T.H. Chan School of Public Health."
+    },
+    {
+     "type": "entry",
+     "when": "2011-",
+     "html": "BPH Ph.D. Program Admissions and Selection Committees; BPH Faculty Advisory Board (2015-)."
+    },
+    {
+     "type": "entry",
+     "when": "2014-2015",
+     "html": "GCD Departmental Retreat organizer (2014); GCD Equipment Committee (2015)."
+    },
+    {
+     "type": "sub",
+     "title": "Dissertation, Advisory and Qualifying Exam Committees"
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Qualifying exam</strong>: Casey Tsimbal (Apfeld lab, Northeastern University). <strong>Defense (Chair)</strong>: Kiwi Florido (Sarosiek lab, Environmental Health), also DAC Chair 2021-26."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<strong>Defense</strong>: Kejun (Albert) Ying (Gladyshev/Sinclair labs, HMS); Ailsa Jeffries (UMass Chan Medical School, external examiner)."
+    },
+    {
+     "type": "entry",
+     "when": "2022-2023",
+     "html": "<strong>Defense (Chair)</strong>: Alexander Plesa (Church lab, HMS Genetics, 2022). <strong>Defense</strong>: J. Coraor (Broad Institute, 2023). <strong>PQE (Chair)</strong>: Katlyn Gabriel (Grekka lab, HMS), Ryan Prakash (Churchman lab, HMS), Nalat Siwapornchai (Sinclair lab, 2023)."
+    },
+    {
+     "type": "entry",
+     "when": "2020-2021",
+     "html": "<strong>Defense</strong>: Kristine Werling (Catteruccia lab), Meghan Torrence (Manning lab), Joseph Beyene (Lu lab). <strong>PQE (Chair)</strong>: Krystle Kalafut (Manning lab), Albert Ying (Gladyshev lab); <strong>PQE</strong>: Casey Lumpkin (Northeastern)."
+    },
+    {
+     "type": "entry",
+     "when": "2016-2019",
+     "html": "<strong>Defense</strong>: Siming Ma (Gladyshev lab), Andrea Andraski (Sacks lab). <strong>DAC</strong>: Joseph Beyene; Charlotte Kelley (Cram lab, Northeastern); Kayla Davis (Schwarz lab); Aditi Jatkar (Chair; Farese/Walther labs); Michael MacArthur (Chair; Mitchell lab); Alexander Plesa (Church lab). <strong>PQE</strong>: Jamaji Nwanaji-Enwerem (Chair), Aditi Jatkar, Sophie Evarts (Chair), Joanna Krawczyk (Chair)."
+    },
+    {
+     "type": "entry",
+     "when": "2012-2014",
+     "html": "<strong>Defense</strong>: Sihao Liu (Lee lab), Khanichi Charles (Hotamisligil lab), Natalie Moroz (Blackwell lab). <strong>PQE</strong>: Jordan Gallinetti (Mitchell lab)."
+    }
+   ]
+  },
+  {
+   "title": "Selected media",
+   "id": "selected-media",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "Background",
+     "html": "Worked in journalism before graduate school and as an accredited freelance science writer (National Association of Science Writers) during postdoctoral training; regular expert commentator on aging science."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<em>Health for All. Starting Here.</em>; Harvard Chan Office of Development and Alumni Relations annual giving campaign: featured faculty video profile on healthy aging research (one of two faculty profiled; YouTube, alumni email and School social channels, Nov)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<em>The New York Times</em>; \"<a href=\"https://www.nytimes.com/2026/03/13/us/his-harvard-lab-was-thriving-then-came-the-cuts.html\" target=\"_blank\" rel=\"noopener\">His Harvard Lab Was Thriving. Then Came the Cuts.</a>\" (J. Russell, Mar 13)."
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<em>Harvard Gazette</em>; \"<a href=\"https://news.harvard.edu/gazette/story/2026/10/living-longer-disease-free/\" target=\"_blank\" rel=\"noopener\">Living longer, disease-free</a>\" (Oct); <em>Harvard Thinking</em> podcast (Harvard Gazette); \"<a href=\"https://open.spotify.com/episode/5g9Zr6HP28F4OfTPTCabWU\" target=\"_blank\" rel=\"noopener\">How super-agers keep their brains young</a>\" (Apr 15)."
+    },
+    {
+     "type": "entry",
+     "when": "2025-26",
+     "html": "<em>The LIVING Room</em> podcast (The WNDR Lab); two featured episodes: \"<a href=\"https://open.spotify.com/episode/0iE3jzQ0g9c5aYEjFYj8wY\" target=\"_blank\" rel=\"noopener\">The Science of Actually Reversing Your Biological Age</a>\" and \"<a href=\"https://youtu.be/Qhn7X4RrTI8\" target=\"_blank\" rel=\"noopener\">Why Staying Healthy Matters More Than Living Longer</a>\"."
+    },
+    {
+     "type": "entry",
+     "when": "2025",
+     "html": "<em>The New York Times</em>; \"<a href=\"https://www.nytimes.com/2025/05/08/well/biological-age-faceage.html\" target=\"_blank\" rel=\"noopener\">What Your Face Reveals About Your Biological Age</a>\" (May 8) and \"<a href=\"https://www.nytimes.com/2025/04/10/well/longevity-low-cost-tips.html\" target=\"_blank\" rel=\"noopener\">Low-Cost Tips for Longevity</a>\" (Apr 10); expert commentary."
+    },
+    {
+     "type": "entry",
+     "when": "2024",
+     "html": "Harvard Chan School Director's Symposium: <a href=\"https://www.youtube.com/live/APdWwrlA5rU\" target=\"_blank\" rel=\"noopener\">Longevity &amp; Healthy Aging</a> (livestreamed panel); Harvard Chan News; \"<a href=\"https://hsph.harvard.edu/news/life-expectancy-may-be-reaching-upper-limits-for-now/\" target=\"_blank\" rel=\"noopener\">Life expectancy may be reaching upper limits; for now</a>\"; CBC Radio interview (Nov)."
+    },
+    {
+     "type": "entry",
+     "when": "2019",
+     "html": "<em>The Washington Post</em>; \"<a href=\"https://www.washingtonpost.com/outlook/five-myths/five-myths-about-aging/2019/09/20/e7bfa11a-daf9-11e9-bfb1-849887369476_story.html\" target=\"_blank\" rel=\"noopener\">Five Myths About Aging</a>\" (Sep 20, author); <em>Harvard Public Health</em> magazine; \"<a href=\"https://web.archive.org/web/20190816124028/https://www.hsph.harvard.edu/magazine/magazine_article/the-aging-game/\" target=\"_blank\" rel=\"noopener\">The Aging Game</a>\" (feature)."
+    },
+    {
+     "type": "entry",
+     "when": "2017",
+     "html": "<em>Harvard Gazette</em>; \"<a href=\"https://news.harvard.edu/gazette/story/2017/11/intermittent-fasting-may-be-center-of-increasing-lifespan/\" target=\"_blank\" rel=\"noopener\">Intermittent fasting may be center of increasing lifespan</a>\" (a top-5 most-read Gazette article); <a href=\"http://web.archive.org/web/20240209125538/https://www.hsph.harvard.edu/news/hsph-in-the-news/reddit-ask-me-anything-ama-rna-splicing-aging/\" target=\"_blank\" rel=\"noopener\">Reddit Ask-Me-Anything on RNA splicing and aging</a> (Harvard Chan)."
+    },
+    {
+     "type": "entry",
+     "when": "2016",
+     "html": "<em>Boston Magazine</em>; \"<a href=\"https://www.bostonmagazine.com/health/2016/12/04/science-getting-old/\" target=\"_blank\" rel=\"noopener\">The Science of Getting Old</a>\" (interview); <em>Medium: The Ageing Issue</em>; \"<a href=\"https://medium.com/the-ageing-issue/this-mortal-coil-fc8d70e06df\" target=\"_blank\" rel=\"noopener\">This Mortal Coil</a>\" (essay); Harvard Chan press release; \"<a href=\"https://web.archive.org/web/20240209120017/https://www.hsph.harvard.edu/news/press-releases/uncovering-smoking-gun-in-age-related-disease/\" target=\"_blank\" rel=\"noopener\">Uncovering a &#x27;smoking gun&#x27; in age-related disease</a>\" (Nature paper)."
+    },
+    {
+     "type": "entry",
+     "when": "2015",
+     "html": "<em>New Statesman</em>; \"<a href=\"https://www.newstatesman.com/long-reads/2015/07/god-quest-why-humans-long-immortality\" target=\"_blank\" rel=\"noopener\">The God Quest: Why Humans Long for Immortality</a>\" (long-read, expert contributor)."
+    },
+    {
+     "type": "entry",
+     "when": "Earlier",
+     "html": "<em>This Week in Health</em> podcast; \"<a href=\"https://open.spotify.com/episode/1Mv4HAdfsEKqrGh4I3RaeE\" target=\"_blank\" rel=\"noopener\">The Plasticity of the Aging Process</a>\" (Harvard Chan School, Mar 2018); Harvard Club of Naples webinar; \"Is Aging Inevitable?\" (2021)."
+    }
+   ]
+  },
+  {
+   "title": "Patents",
+   "id": "patents",
+   "blocks": [
+    {
+     "type": "entry",
+     "when": "Pending",
+     "html": "US 2021/0071257 (application 15/735,339; published 2019); <em>Compositions and Methods for Maintaining Splicing Fidelity</em>. Inventors: Mair WB, Heintz C. Harvard University."
+    }
+   ]
+  }
+ ]
+}
