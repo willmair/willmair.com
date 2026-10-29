@@ -14,6 +14,7 @@ Placeholders you can use in a page body:
   {{MEDIA_LIST}}     the full speaking & media list, with filter chips
   {{PRESS_STRIP}}    the five most recent press/essay items
   {{PODCASTS}}       all podcasts, as cards with listen buttons
+  {{CV}}             the full academic CV from data/cv.json (made by scripts/update_cv.py from the master Word CV)
 """
 import html, json, math, pathlib, re, time
 
@@ -125,6 +126,48 @@ def podcasts():
     return '<div class="pod-grid">' + "".join(card(m) for m in media() if m["type"] == "Podcast" and not m.get("featured")) + "</div>"
 
 
+def cv():
+    d = json.loads((ROOT / "data" / "cv.json").read_text())
+    glance = "".join(f'<div class="cv-card"><span class="kicker">{e(g["label"])}</span><p>{g["html"]}</p></div>'
+                     for g in d["glance"])
+    toc = "".join(f'<li><a href="#{s["id"]}">{e(s["title"])}</a></li>' for s in d["sections"])
+    secs = []
+    for n, s in enumerate(d["sections"], 1):
+        out, items = [], []
+
+        def flush():
+            if items:
+                num = all(re.fullmatch(r"\d+\.", w) for w, _ in items)
+                out.append(f'<ol class="cv-list{" cv-num" if num else ""}">' + "".join(
+                    f'<li><span class="cv-when">{e(w)}</span><span class="cv-what">{h}</span></li>' for w, h in items) + "</ol>")
+                items.clear()
+        for b in s["blocks"]:
+            if b["type"] == "entry":
+                items.append((b["when"], b["html"]))
+                continue
+            flush()
+            out.append(f'<h3 class="cv-sub">{e(b["title"])}</h3>' if b["type"] == "sub" else f'<p class="cv-para">{b["html"]}</p>')
+        flush()
+        secs.append(f'<section class="cv-sec" id="{s["id"]}"><h2 class="cv-h"><span class="cv-n">{n:02d}</span>{e(s["title"])}</h2>'
+                    + "".join(out) + "</section>")
+    return f"""<section class="page-head cv-head">
+  <div class="wrap">
+    <span class="eyebrow">Curriculum vitae</span>
+    <h1 class="display">{e(d["name"])}</h1>
+    <p class="hero-roles">{e(d["tagline"])}</p>
+    {wave()}
+    <p class="cv-meta"><span>Updated {e(d["updated"])}</span><a href="https://themairlab.com/publications.html" target="_blank" rel="noopener">Publications ↗</a><a href="https://orcid.org/0000-0002-0661-1342" target="_blank" rel="noopener">ORCID ↗</a><a href="https://scholar.google.com/citations?user=Ben7hEIAAAAJ" target="_blank" rel="noopener">Google Scholar ↗</a><button class="cv-print" type="button" onclick="window.print()">Print or save as PDF</button></p>
+    <div class="cv-glance">{glance}</div>
+  </div>
+</section>
+<section class="cv-body">
+  <div class="wrap cv-grid">
+    <nav class="cv-toc" aria-label="CV sections"><span class="kicker">Contents</span><ol>{toc}</ol></nav>
+    <div class="cv-main">{"".join(secs)}</div>
+  </div>
+</section>"""
+
+
 HEAD = """<!doctype html>
 <html lang="en">
 <head>
@@ -191,6 +234,7 @@ FOOT = """</main>
         <ul>
           <li><a href="https://themairlab.com" target="_blank" rel="noopener">The MAIR Lab</a></li>
           <li><a href="https://themairlab.com/publications.html" target="_blank" rel="noopener">Publications</a></li>
+          <li><a href="cv.html">Academic CV</a></li>
           <li><a href="https://hsph.harvard.edu/research/healthy-aging/" target="_blank" rel="noopener">Healthy Aging Initiative</a></li>
         </ul>
       </div>
@@ -224,7 +268,7 @@ JSONLD = """<script type="application/ld+json">
 
 def build():
     blocks = {"{{WAVE}}": wave(), "{{WAVE_WIDE}}": wave(1200, 40, 12, 1.6, "foot-wave"), "{{FEATURED}}": featured(), "{{MEDIA_LIST}}": media_list(),
-              "{{PRESS_STRIP}}": press_strip(), "{{PODCASTS}}": podcasts()}
+              "{{PRESS_STRIP}}": press_strip(), "{{PODCASTS}}": podcasts(), "{{CV}}": cv()}
     mini = wave(64, 14, 4, 1.7, "brand-wave")
     for src in sorted(PAGES.glob("*.html")):
         text = src.read_text()
