@@ -9,6 +9,7 @@ The Word file is the source of truth; never edit data/cv.json by hand.
 Web-only rules (everything else is copied as written):
   - no email address, birthplace or citizenship (masthead lines dropped)
   - no named co-lead of the Healthy Aging Initiative (willmair.com rule)
+  - no donor names or dollar amounts on gifts and partnerships
   - plain hyphens instead of en and em dashes (Will's writing rule)
 """
 import html, json, pathlib, re, sys, zipfile
@@ -19,7 +20,15 @@ CV_DIR = pathlib.Path.home() / "Library/CloudStorage/OneDrive-HarvardUniversity/
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 R = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}"
 
-REDACT = [r"\s*\(co-lead L\. Kubzansky\)"]
+REDACT = [
+    (r"\s*\(co-lead L\. Kubzansky\)", ""),
+    # no donor names or dollar amounts on gifts and partnerships (Will, 3 Nov 2026)
+    (r",\s*Michael Jennings", ""),
+    (r"\s*\(\$[\d,]+\)", ""),
+    (r";\s*\$[\d,]+\)", ")"),
+    (r"\(\$[\d,]+,\s*", "("),
+    (r"\$[\d,]+ in ", ""),
+]
 
 
 def clean(s):
@@ -77,8 +86,8 @@ def runs_html(p, rels):
         out.append(s)
     body = clean("".join(out).strip())
     body = re.sub(r"(?<![/\w])(scholar\.google\.com/\S+?)(?=[\s<]|$)", r'<a href="https://\1" target="_blank" rel="noopener">Google Scholar</a>', body)
-    for pat in REDACT:
-        body = re.sub(pat, "", body)
+    for pat, repl in REDACT:
+        body = re.sub(pat, repl, body)
     bold_only = bool(texts) and all(m[1] for m in texts)
     return (clean(when) if when is not None else None), body, bold_only
 
