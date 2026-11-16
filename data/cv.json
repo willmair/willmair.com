@@ -1,8 +1,8 @@
 {
- "source": "Mair_CV_2026-11-02.docx",
+ "source": "Mair_CV_2026-11-16.docx",
  "name": "William B. Mair",
  "tagline": "Professor of Molecular Metabolism · Director, Harvard Chan Healthy Aging Initiative",
- "updated": "2 November 2026",
+ "updated": "16 November 2026",
  "glance": [
   {
    "label": "Research",
@@ -439,7 +439,7 @@
    "blocks": [
     {
      "type": "para",
-     "html": "Lab papers are posted as preprints before peer review; the preprint is linked after each entry. h-index 36 · i10-index 52 · 13,310 citations (Google Scholar, 2 November 2026) · ORCID 0000-0002-0661-1342 · <a href=\"https://scholar.google.com/citations?user=Ben7hEIAAAAJ\" target=\"_blank\" rel=\"noopener\">Google Scholar</a>"
+     "html": "Lab papers are posted as preprints before peer review; the preprint is linked after each entry. h-index 36 · i10-index 52 · 13,314 citations (Google Scholar, 3 November 2026) · ORCID 0000-0002-0661-1342 · <a href=\"https://scholar.google.com/citations?user=Ben7hEIAAAAJ\" target=\"_blank\" rel=\"noopener\">Google Scholar</a>"
     },
     {
      "type": "sub",
@@ -637,26 +637,31 @@
     {
      "type": "entry",
      "when": "1.",
-     "html": "Shin S, Korobkina ED, Lennicke C, Burger N, Zhang B, Xiao H, Wang Y, Petrocelli JJ, Wei SM, Wood D, Lei Y, Zhang X, Perez-Matos MC, Sharif MA, Zhang J, Cochemé HM, <strong>Mair WB</strong>, Chouchani ET. Redox activation of ATG5 licenses autophagy upon nutrient restriction. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2026.09.23.753803\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2026."
+     "html": "Morrow CS, Prabhakar A, Kraft JD, Silva-García CG, Anekal PV, Montero Llopis P, Miller JW, <strong>Mair WB.</strong> A living organism-level model of subcellular architecture across adult life reveals a midlife architectural state shift. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2026.11.11.765956\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2026."
     },
     {
      "type": "entry",
      "when": "2.",
-     "html": "Prabhakar A, <strong>Mair WB.</strong> Regulation of the Rheb GTPase via GATOR1 complex. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2025.12.20.695697\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
+     "html": "Shin S, Korobkina ED, Lennicke C, Burger N, Zhang B, Xiao H, Wang Y, Petrocelli JJ, Wei SM, Wood D, Lei Y, Zhang X, Perez-Matos MC, Sharif MA, Zhang J, Cochemé HM, <strong>Mair WB</strong>, Chouchani ET. Redox activation of ATG5 licenses autophagy upon nutrient restriction. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2026.09.23.753803\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2026."
     },
     {
      "type": "entry",
      "when": "3.",
-     "html": "Valera-Alberni M, Lanjuin A, Romero-Sanz S, Burkewitz K, Hughes AL, <strong>Mair WB.</strong> Nutrient-responsive formation of mitochondrial-derived structures in Caenorhabditis elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2025.06.24.661357\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
+     "html": "Prabhakar A, <strong>Mair WB.</strong> Regulation of the Rheb GTPase via GATOR1 complex. <a class=\"cv-pill\" href=\"https://doi.org/10.64898/2025.12.20.695697\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
     },
     {
      "type": "entry",
      "when": "4.",
-     "html": "Silva-García CG, <strong>Mair WB.</strong> Confirming the pro-longevity effects of H3K4me3-deficient set-2 mutants in extending lifespan in C. elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2022.08.02.502497\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2022."
+     "html": "Valera-Alberni M, Lanjuin A, Romero-Sanz S, Burkewitz K, Hughes AL, <strong>Mair WB.</strong> Nutrient-responsive formation of mitochondrial-derived structures in Caenorhabditis elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2025.06.24.661357\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2025."
     },
     {
      "type": "entry",
      "when": "5.",
+     "html": "Silva-García CG, <strong>Mair WB.</strong> Confirming the pro-longevity effects of H3K4me3-deficient set-2 mutants in extending lifespan in C. elegans. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2022.08.02.502497\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2022."
+    },
+    {
+     "type": "entry",
+     "when": "6.",
      "html": "Escoubas CC, Laversenne V, Tabakovic E, Weir HJ, Clark N, <strong>Mair WB</strong>. AMPK modulates associative learning via neuronal mitochondrial fusion in <em>C. elegans</em>. <a class=\"cv-pill\" href=\"https://doi.org/10.1101/2020.11.05.370031\" target=\"_blank\" rel=\"noopener\">bioRxiv</a> 2020."
     },
     {
@@ -1379,6 +1384,11 @@
     {
      "type": "sub",
      "title": "Public, Policy and Executive Engagement"
+    },
+    {
+     "type": "entry",
+     "when": "2026",
+     "html": "<strong>Danone Institute Global Scientific Board</strong>; invited presentation, debrief on the inaugural Harvard Chan Healthy Aging Symposium (Nov 4, remote)."
     },
     {
      "type": "entry",
